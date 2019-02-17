@@ -1,0 +1,4890 @@
+{
+    "subcategories": [
+        {
+            "id": "30",
+            "name": "Входные",
+            "category_id": "1"
+        },
+        {
+            "id": "31",
+            "name": "Межкомнатные",
+            "category_id": "1"
+        },
+        {
+            "id": "32",
+            "name": "Фурнитура",
+            "category_id": "1"
+        },
+        {
+            "id": "33",
+            "name": "Перегородки",
+            "category_id": "1"
+        },
+        {
+            "id": "34",
+            "name": " Пластиковые стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "35",
+            "name": " Гипсовые стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "36",
+            "name": " Кожаные стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "37",
+            "name": " Текстильные стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "38",
+            "name": " Деревянные стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "39",
+            "name": " Пробковые стеновые панели ",
+            "category_id": "2"
+        },
+        {
+            "id": "40",
+            "name": "Обои",
+            "category_id": "2"
+        },
+        {
+            "id": "41",
+            "name": "Инженерная доска",
+            "category_id": "3"
+        },
+        {
+            "id": "42",
+            "name": "Ковры",
+            "category_id": "3"
+        },
+        {
+            "id": "43",
+            "name": "Ламинат",
+            "category_id": "3"
+        },
+        {
+            "id": "44",
+            "name": "Массивная доска",
+            "category_id": "3"
+        },
+        {
+            "id": "45",
+            "name": "Модульный паркет",
+            "category_id": "3"
+        },
+        {
+            "id": "46",
+            "name": "Паркет",
+            "category_id": "3"
+        },
+        {
+            "id": "47",
+            "name": "Плинтусы",
+            "category_id": "3"
+        },
+        {
+            "id": "48",
+            "name": "Корпусная мебель",
+            "category_id": "4"
+        },
+        {
+            "id": "49",
+            "name": "Мягкая мебель",
+            "category_id": "4"
+        },
+        {
+            "id": "50",
+            "name": "Кровати, матрасы",
+            "category_id": "4"
+        },
+        {
+            "id": "51",
+            "name": "Столы/стулья",
+            "category_id": "4"
+        },
+        {
+            "id": "52",
+            "name": "Кухни",
+            "category_id": "4"
+        },
+        {
+            "id": "53",
+            "name": "Аксесуары для кухни",
+            "category_id": "4"
+        },
+        {
+            "id": "54",
+            "name": "Массажные кресла",
+            "category_id": "4"
+        },
+        {
+            "id": "55",
+            "name": "Мебель и оборудование для баров",
+            "category_id": "4"
+        },
+        {
+            "id": "56",
+            "name": " Мебель по индивидуальным проектам ",
+            "category_id": "4"
+        },
+        {
+            "id": "57",
+            "name": " Мебельная фурнитура ",
+            "category_id": "4"
+        },
+        {
+            "id": "58",
+            "name": "Сейфы",
+            "category_id": "4"
+        },
+        {
+            "id": "59",
+            "name": "Товары для дома",
+            "category_id": "4"
+        },
+        {
+            "id": "60",
+            "name": "Предметы интерьера",
+            "category_id": "4"
+        },
+        {
+            "id": "61",
+            "name": " Люстры, подвесные светильники ",
+            "category_id": "5"
+        },
+        {
+            "id": "62",
+            "name": " Бра, настенные светильники ",
+            "category_id": "5"
+        },
+        {
+            "id": "63",
+            "name": " Торшеры, настольные лампы ",
+            "category_id": "5"
+        },
+        {
+            "id": "64",
+            "name": " Точечные светильники ",
+            "category_id": "5"
+        },
+        {
+            "id": "65",
+            "name": " Встраиваемые осветительные приборы ",
+            "category_id": "5"
+        },
+        {
+            "id": "66",
+            "name": " Лампочки ",
+            "category_id": "5"
+        },
+        {
+            "id": "67",
+            "name": " Уличное освещение ",
+            "category_id": "5"
+        },
+        {
+            "id": "68",
+            "name": " Мебель для ванных комнат ",
+            "category_id": "6"
+        },
+        {
+            "id": "69",
+            "name": " Ванны ",
+            "category_id": "6"
+        },
+        {
+            "id": "70",
+            "name": " Душевые кабины ",
+            "category_id": "6"
+        },
+        {
+            "id": "71",
+            "name": " Раковины, унитазы ",
+            "category_id": "6"
+        },
+        {
+            "id": "72",
+            "name": " Сантехнические люки ",
+            "category_id": "6"
+        },
+        {
+            "id": "73",
+            "name": " Джакузи, гидромассажные ванны ",
+            "category_id": "6"
+        },
+        {
+            "id": "74",
+            "name": " Смесители ",
+            "category_id": "6"
+        },
+        {
+            "id": "75",
+            "name": " Полотенцесушители ",
+            "category_id": "6"
+        },
+        {
+            "id": "76",
+            "name": " Аксессуары для ванной ",
+            "category_id": "6"
+        },
+        {
+            "id": "77",
+            "name": " Керамогранит ",
+            "category_id": "7"
+        },
+        {
+            "id": "78",
+            "name": " Плитка ",
+            "category_id": "7"
+        },
+        {
+            "id": "79",
+            "name": " Профили для плитки ",
+            "category_id": "7"
+        },
+        {
+            "id": "80",
+            "name": " Канализация ",
+            "category_id": "8"
+        },
+        {
+            "id": "81",
+            "name": " Системы отопления ",
+            "category_id": "8"
+        },
+        {
+            "id": "82",
+            "name": " Водоснабжение ",
+            "category_id": "8"
+        },
+        {
+            "id": "83",
+            "name": " Витражи ",
+            "category_id": "9"
+        },
+        {
+            "id": "84",
+            "name": " Декоративные краски и штукатурки ",
+            "category_id": "9"
+        },
+        {
+            "id": "85",
+            "name": " Изделия из кожи, ржавчины, меди, бетона ",
+            "category_id": "9"
+        },
+        {
+            "id": "86",
+            "name": " Лепнина, изделия из гипса и полиуретана ",
+            "category_id": "9"
+        },
+        {
+            "id": "87",
+            "name": " Мозаика ",
+            "category_id": "9"
+        },
+        {
+            "id": "88",
+            "name": " Услуги по серебрению, золочению, патенированию ",
+            "category_id": "9"
+        },
+        {
+            "id": "89",
+            "name": " Антисептики ",
+            "category_id": "10"
+        },
+        {
+            "id": "90",
+            "name": " Грунты ",
+            "category_id": "10"
+        },
+        {
+            "id": "91",
+            "name": " Клеи ",
+            "category_id": "10"
+        },
+        {
+            "id": "92",
+            "name": " Краски, эмали ",
+            "category_id": "10"
+        },
+        {
+            "id": "93",
+            "name": " Лаки ",
+            "category_id": "10"
+        },
+        {
+            "id": "94",
+            "name": " Растворители и очистители ",
+            "category_id": "10"
+        },
+        {
+            "id": "95",
+            "name": " Сухие смеси ",
+            "category_id": "10"
+        },
+        {
+            "id": "96",
+            "name": " Шпатлевка ",
+            "category_id": "10"
+        },
+        {
+            "id": "97",
+            "name": " Алюминиевые ",
+            "category_id": "11"
+        },
+        {
+            "id": "98",
+            "name": " Деревянные ",
+            "category_id": "11"
+        },
+        {
+            "id": "99",
+            "name": " Пластиковые ",
+            "category_id": "11"
+        },
+        {
+            "id": "100",
+            "name": " Подоконники ",
+            "category_id": "11"
+        },
+        {
+            "id": "101",
+            "name": " Фурнитура ",
+            "category_id": "11"
+        },
+        {
+            "id": "102",
+            "name": " Подвесные, натяжные потолки ",
+            "category_id": "12"
+        },
+        {
+            "id": "103",
+            "name": " Потолочные панели ",
+            "category_id": "12"
+        },
+        {
+            "id": "104",
+            "name": " Потолочные плинтуса ",
+            "category_id": "12"
+        },
+        {
+            "id": "105",
+            "name": " Услуги по художественной росписи, серебрению, золочению ",
+            "category_id": "12"
+        },
+        {
+            "id": "106",
+            "name": " Инструменты и оборудование ",
+            "category_id": "13"
+        },
+        {
+            "id": "107",
+            "name": " Наружное пространство ",
+            "category_id": "14"
+        },
+        {
+            "id": "108",
+            "name": "Бассейны",
+            "category_id": "15"
+        },
+        {
+            "id": "109",
+            "name": "Сауны",
+            "category_id": "15"
+        },
+        {
+            "id": "110",
+            "name": "Теле-аудио системы",
+            "category_id": "16"
+        },
+        {
+            "id": "111",
+            "name": "Электротовары",
+            "category_id": "16"
+        },
+        {
+            "id": "112",
+            "name": " Вентиляция и кондиционирование ",
+            "category_id": "17"
+        },
+        {
+            "id": "113",
+            "name": " Искусственный и натуральный камень ",
+            "category_id": "18"
+        },
+        {
+            "id": "114",
+            "name": "Камины",
+            "category_id": "19"
+        },
+        {
+            "id": "115",
+            "name": "Грили и барбекю",
+            "category_id": "19"
+        },
+        {
+            "id": "116",
+            "name": "Печи",
+            "category_id": "19"
+        }
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "name": "Двери"
+        },
+        {
+            "id": "2",
+            "name": "Стеновые покрытия.Обои"
+        },
+        {
+            "id": "3",
+            "name": "Напольные покрытия"
+        },
+        {
+            "id": "4",
+            "name": "Мебель"
+        },
+        {
+            "id": "5",
+            "name": "Освещение"
+        },
+        {
+            "id": "6",
+            "name": "Сантехника"
+        },
+        {
+            "id": "7",
+            "name": " Плитка, керамогранит "
+        },
+        {
+            "id": "8",
+            "name": " Водоснабжение, канализация, отопление "
+        },
+        {
+            "id": "9",
+            "name": " Декоративные отделочные материалы "
+        },
+        {
+            "id": "10",
+            "name": " Краски, лаки, смеси, клеи "
+        },
+        {
+            "id": "11",
+            "name": "Окна"
+        },
+        {
+            "id": "12",
+            "name": "Потолочные покрытия"
+        },
+        {
+            "id": "13",
+            "name": " Инструменты и оборудование "
+        },
+        {
+            "id": "14",
+            "name": " Наружное пространство "
+        },
+        {
+            "id": "15",
+            "name": " Бассейны, сауны "
+        },
+        {
+            "id": "16",
+            "name": "Электрооборудование"
+        },
+        {
+            "id": "17",
+            "name": " Вентиляция и кондиционирование "
+        },
+        {
+            "id": "18",
+            "name": " Искусственный и натуральный камень "
+        },
+        {
+            "id": "19",
+            "name": "Печи и камины"
+        }
+    ],
+    "brands": [
+        {
+            "id": "1",
+            "name": "Fringilla Porttitor Vulputate Consulting"
+        },
+        {
+            "id": "2",
+            "name": "Nam Interdum Enim Inca."
+        },
+        {
+            "id": "3",
+            "name": "Eget Ipsum Corporation"
+        },
+        {
+            "id": "4",
+            "name": "Ut Consulting"
+        },
+        {
+            "id": "5",
+            "name": "Aliquam Rutrum Lorem Inc."
+        },
+        {
+            "id": "6",
+            "name": "Suspendisse Commodo Tincidunt Inc."
+        },
+        {
+            "id": "7",
+            "name": "Scelerisque Neque Company"
+        },
+        {
+            "id": "8",
+            "name": "In Cursus Et Limited"
+        },
+        {
+            "id": "9",
+            "name": "Interdum Libero Incorporated"
+        },
+        {
+            "id": "10",
+            "name": "Maecenas Iaculis Aliquet Foundation"
+        },
+        {
+            "id": "11",
+            "name": "Dictum Eu LLC"
+        },
+        {
+            "id": "12",
+            "name": "Aliquet Phasellus Foundation"
+        },
+        {
+            "id": "13",
+            "name": "Ornare Facilisis Eget Corporation"
+        },
+        {
+            "id": "14",
+            "name": "Proin Associates"
+        },
+        {
+            "id": "15",
+            "name": "Cras Pellentesque Sed Industries"
+        },
+        {
+            "id": "16",
+            "name": "Sapien Gravida Non Company"
+        },
+        {
+            "id": "17",
+            "name": "Lorem Vitae LLC"
+        },
+        {
+            "id": "18",
+            "name": "Donec Corp."
+        },
+        {
+            "id": "19",
+            "name": "Vestibulum Inc."
+        },
+        {
+            "id": "20",
+            "name": "Est Institute"
+        },
+        {
+            "id": "21",
+            "name": "Tristique Company"
+        },
+        {
+            "id": "22",
+            "name": "A Magna PC"
+        },
+        {
+            "id": "23",
+            "name": "Mauris Limited"
+        },
+        {
+            "id": "24",
+            "name": "Nulla Foundation"
+        },
+        {
+            "id": "25",
+            "name": "Lorem Ipsum Sodales LLC"
+        },
+        {
+            "id": "26",
+            "name": "Porta Inc."
+        },
+        {
+            "id": "27",
+            "name": "Lacus Institute"
+        },
+        {
+            "id": "28",
+            "name": "Libero Industries"
+        },
+        {
+            "id": "29",
+            "name": "Ornare In Faucibus LLC"
+        },
+        {
+            "id": "30",
+            "name": "Tellus Inc."
+        },
+        {
+            "id": "31",
+            "name": "Mauris Elit Dictum Institute"
+        },
+        {
+            "id": "32",
+            "name": "Integer Aliquam Adipiscing Consulting"
+        },
+        {
+            "id": "33",
+            "name": "Ad Litora Ltd"
+        },
+        {
+            "id": "34",
+            "name": "Erat In Institute"
+        },
+        {
+            "id": "35",
+            "name": "Vitae Mauris Corp."
+        },
+        {
+            "id": "36",
+            "name": "Eu Nibh LLP"
+        },
+        {
+            "id": "37",
+            "name": "Ullamcorper Corp."
+        },
+        {
+            "id": "38",
+            "name": "Proin Vel Arcu Inc."
+        },
+        {
+            "id": "39",
+            "name": "Eu Placerat Industries"
+        },
+        {
+            "id": "40",
+            "name": "Non Dapibus Rutrum Industries"
+        },
+        {
+            "id": "41",
+            "name": "Dapibus Quam LLC"
+        },
+        {
+            "id": "42",
+            "name": "Enim Etiam Imperdiet Company"
+        },
+        {
+            "id": "43",
+            "name": "Molestie Ltd"
+        },
+        {
+            "id": "44",
+            "name": "Nunc Est Inc."
+        },
+        {
+            "id": "45",
+            "name": "Tempor LLC"
+        },
+        {
+            "id": "46",
+            "name": "Enim Mauris Corporation"
+        },
+        {
+            "id": "47",
+            "name": "Diam Proin Dolor LLC"
+        },
+        {
+            "id": "48",
+            "name": "Blandit Limited"
+        },
+        {
+            "id": "49",
+            "name": "Eleifend LLP"
+        },
+        {
+            "id": "50",
+            "name": "Nec Urna Suscipit Associates"
+        },
+        {
+            "id": "51",
+            "name": "Posuere Inc."
+        },
+        {
+            "id": "52",
+            "name": "Nostra Per Limited"
+        },
+        {
+            "id": "53",
+            "name": "In Industries"
+        },
+        {
+            "id": "54",
+            "name": "Donec Egestas Duis Associates"
+        },
+        {
+            "id": "55",
+            "name": "Dui Lectus Industries"
+        },
+        {
+            "id": "56",
+            "name": "Ac Mattis Incorporated"
+        },
+        {
+            "id": "57",
+            "name": "Eget Incorporated"
+        },
+        {
+            "id": "58",
+            "name": "Dui Cras Pellentesque Inc."
+        },
+        {
+            "id": "59",
+            "name": "Sed Associates"
+        },
+        {
+            "id": "60",
+            "name": "Nibh Phasellus Nulla Inc."
+        },
+        {
+            "id": "61",
+            "name": "Urna Nullam Lobortis Consulting"
+        },
+        {
+            "id": "62",
+            "name": "Cursus Diam At Inc."
+        },
+        {
+            "id": "63",
+            "name": "Sed Facilisis Vitae LLC"
+        },
+        {
+            "id": "64",
+            "name": "Libero Morbi Industries"
+        },
+        {
+            "id": "65",
+            "name": "Ligula Aenean Associates"
+        },
+        {
+            "id": "66",
+            "name": "Lorem Donec Ltd"
+        },
+        {
+            "id": "67",
+            "name": "Felis Eget Varius Limited"
+        },
+        {
+            "id": "68",
+            "name": "Massa Foundation"
+        },
+        {
+            "id": "69",
+            "name": "Nec LLC"
+        },
+        {
+            "id": "70",
+            "name": "Justo Eu Arcu Corp."
+        },
+        {
+            "id": "71",
+            "name": "Adipiscing Lacus Ut Associates"
+        },
+        {
+            "id": "72",
+            "name": "Sed Limited"
+        },
+        {
+            "id": "73",
+            "name": "Massa Suspendisse Inc."
+        },
+        {
+            "id": "74",
+            "name": "Molestie Pharetra Consulting"
+        },
+        {
+            "id": "75",
+            "name": "In Cursus Et PC"
+        },
+        {
+            "id": "76",
+            "name": "Lacus Vestibulum Lorem PC"
+        },
+        {
+            "id": "77",
+            "name": "Dui PC"
+        },
+        {
+            "id": "78",
+            "name": "Sed Dictum Proin Institute"
+        },
+        {
+            "id": "79",
+            "name": "Elementum Dui Consulting"
+        },
+        {
+            "id": "80",
+            "name": "Id Associates"
+        },
+        {
+            "id": "81",
+            "name": "Adipiscing Fringilla Foundation"
+        },
+        {
+            "id": "82",
+            "name": "Neque Venenatis PC"
+        },
+        {
+            "id": "83",
+            "name": "Sociis Natoque Penatibus LLP"
+        },
+        {
+            "id": "84",
+            "name": "Suspendisse Sed Dolor Industries"
+        },
+        {
+            "id": "85",
+            "name": "Pellentesque Tellus Sem Corporation"
+        },
+        {
+            "id": "86",
+            "name": "Euismod Ac Limited"
+        },
+        {
+            "id": "87",
+            "name": "Et Pede Nunc Associates"
+        },
+        {
+            "id": "88",
+            "name": "Feugiat Metus Corp."
+        },
+        {
+            "id": "89",
+            "name": "Gravida Nunc Limited"
+        },
+        {
+            "id": "90",
+            "name": "Purus In Molestie Associates"
+        },
+        {
+            "id": "91",
+            "name": "Lorem Company"
+        },
+        {
+            "id": "92",
+            "name": "Posuere Cubilia Corp."
+        },
+        {
+            "id": "93",
+            "name": "Non Cursus Non Company"
+        },
+        {
+            "id": "94",
+            "name": "Enim Industries"
+        },
+        {
+            "id": "95",
+            "name": "Ut Eros Non Ltd"
+        },
+        {
+            "id": "96",
+            "name": "Sollicitudin PC"
+        },
+        {
+            "id": "97",
+            "name": "Congue A Aliquet Associates"
+        },
+        {
+            "id": "98",
+            "name": "Vivamus Molestie Dapibus Inc."
+        },
+        {
+            "id": "99",
+            "name": "Amet Dapibus Id Ltd"
+        },
+        {
+            "id": "100",
+            "name": "Velit Eget Laoreet LLC"
+        }
+    ],
+    "companies": [
+        {
+            "level": "0",
+            "place": "c1",
+            "id": "91377322599",
+            "name": "Nec Corporation",
+            "phone": "0845 46 43",
+            "phone2": "(01990) 08879",
+            "subcategories": ["78", "1", "3"],
+            "brands": ["4", "1"],
+            "area": "78",
+            "image": true
+        },
+        {
+            "level": "0",
+            "place": "c2",
+            "id": "91949471699",
+            "name": "Sed Diam Inc.",
+            "phone": "(01431) 19546",
+            "phone2": "800,063,943",
+            "subcategories": ["53, 23, 22"],
+            "brands": ["39"],
+            "area": "104"
+        },
+        {
+            "level": "0",
+            "place": "c3",
+            "id": "56983048799",
+            "name": "Molestie LLP",
+            "phone": "8,001,874,913",
+            "phone2": "7,089,771,115",
+            "subcategories": ["96"],
+            "brands": ["56"],
+            "area": "49"
+        },
+        {
+            "level": "0",
+            "place": "c4",
+            "id": "75643643299",
+            "name": "Sed Nulla LLC",
+            "phone": "7,529,787,082",
+            "phone2": "8,006,840,465",
+            "subcategories": ["50"],
+            "brands": ["22"],
+            "area": "17",
+            "image": true
+
+        },
+        {
+            "level": "0",
+            "place": "c5",
+            "id": "45994064999",
+            "name": "Aliquam Ultrices Iaculis LLP",
+            "phone": "800,267,849",
+            "phone2": "9,892,503,631",
+            "subcategories": ["83"],
+            "brands": ["3"],
+            "area": "16"
+        },
+        {
+            "level": "0",
+            "place": "c6",
+            "id": "51524246499",
+            "name": "Dis Parturient Company",
+            "phone": "7,004,330,531",
+            "phone2": "5,665,183,070",
+            "subcategories": ["92"],
+            "brands": ["62"],
+            "area": "86.4"
+        },
+        {
+            "level": "0",
+            "place": "c7",
+            "id": "82601206899",
+            "name": "Tellus Limited",
+            "phone": "(020) 0287 3677",
+            "phone2": "0845 46 48",
+            "subcategories": ["33"],
+            "brands": ["85"],
+            "area": "86.4"
+        },
+        {
+            "level": "0",
+            "place": "c8",
+            "id": "27903940599",
+            "name": "Volutpat Nulla Dignissim Ltd",
+            "phone": "(0161) 977 8466",
+            "phone2": "(016977) 4324",
+            "subcategories": ["109"],
+            "brands": ["27"],
+            "area": "56.7"
+        },
+        {
+            "level": "0",
+            "place": "c9",
+            "id": "45422425899",
+            "name": "Bibendum PC",
+            "phone": "(028) 7807 6596",
+            "phone2": "(01100) 687557",
+            "subcategories": ["80"],
+            "brands": ["46"],
+            "area": "56.7"
+        },
+        {
+            "level": "0",
+            "place": "c10",
+            "id": "62950683999",
+            "name": "A Company",
+            "phone": "5,502,502,626",
+            "phone2": "7,005,328,017",
+            "subcategories": ["58"],
+            "brands": ["96"],
+            "area": "166"
+        },
+        {
+            "level": "0",
+            "place": "c11",
+            "id": "78666335699",
+            "name": "Ut Sagittis Lobortis Limited",
+            "phone": "(0161) 140 5980",
+            "phone2": "(013470) 49975",
+            "subcategories": ["42"],
+            "brands": ["20"],
+            "area": "249"
+        },
+        {
+            "level": "0",
+            "place": "c12",
+            "id": "22223141999",
+            "name": "Volutpat Nulla Industries",
+            "phone": "0845 46 47",
+            "phone2": "7,624,876,999",
+            "subcategories": ["69"],
+            "brands": ["95"],
+            "area": "15.4"
+        },
+        {
+            "level": "0",
+            "place": "c13",
+            "id": "57838965399",
+            "name": "Dolor Nonummy Ac Associates",
+            "phone": "8,433,501,073",
+            "phone2": "8,001,111",
+            "subcategories": ["39"],
+            "brands": ["32"],
+            "area": "15.4"
+        },
+        {
+            "level": "0",
+            "place": "c14",
+            "id": "37557601999",
+            "name": "Adipiscing Mauris Associates",
+            "phone": "(026) 6972 7025",
+            "phone2": "(024) 1826 0989",
+            "subcategories": ["66"],
+            "brands": ["81"],
+            "area": "17.8"
+        },
+        {
+            "level": "0",
+            "place": "c15",
+            "id": "36226268599",
+            "name": "Commodo Consulting",
+            "phone": "3,200,481,757",
+            "phone2": "(025) 0534 3146",
+            "subcategories": ["66"],
+            "brands": ["64"],
+            "area": "16.6"
+        },
+        {
+            "level": "0",
+            "place": "c16",
+            "id": "5682768699",
+            "name": "Interdum Feugiat Company",
+            "phone": "0845 46 45",
+            "phone2": "(01661) 240651",
+            "subcategories": ["42"],
+            "brands": ["11"],
+            "area": "16.6"
+        },
+        {
+            "level": "0",
+            "place": "c17",
+            "id": "2413974999",
+            "name": "Dolor Donec Fringilla Corp.",
+            "phone": "8,001,111",
+            "phone2": "8,628,672,661",
+            "subcategories": ["30"],
+            "brands": ["89"],
+            "area": "16.6"
+        },
+        {
+            "level": "0",
+            "place": "c18",
+            "id": "99929248299",
+            "name": "Aliquam Tincidunt Nunc Company",
+            "phone": "800,822,639",
+            "phone2": "7,604,683,579",
+            "subcategories": ["110"],
+            "brands": ["80"],
+            "area": "46.1"
+        },
+        {
+            "level": "0",
+            "place": "c19",
+            "id": "97582123899",
+            "name": "Porta Elit Company",
+            "phone": "3,728,945,553",
+            "phone2": "(01236) 87159",
+            "subcategories": ["101"],
+            "brands": ["9"],
+            "area": "15.4"
+        },
+        {
+            "level": "0",
+            "place": "c20",
+            "id": "11410554299",
+            "name": "Ultricies Ligula Nullam Foundation",
+            "phone": "5,516,408,644",
+            "phone2": "8,001,111",
+            "subcategories": ["109"],
+            "brands": ["50"],
+            "area": "15.4"
+        },
+        {
+            "level": "0",
+            "place": "c21",
+            "id": "94802635199",
+            "name": "Vulputate Velit Eu Limited",
+            "phone": "3,199,118,508",
+            "phone2": "0845 46 47",
+            "subcategories": ["85"],
+            "brands": ["60"],
+            "area": "17.8"
+        },
+        {
+            "level": "0",
+            "place": "c22",
+            "id": "15424800499",
+            "name": "Pharetra Company",
+            "phone": "0845 46 42",
+            "phone2": "8,001,111",
+            "subcategories": ["44"],
+            "brands": ["84"],
+            "area": "24.9"
+        },
+        {
+            "level": "0",
+            "place": "c23",
+            "id": "54993501399",
+            "name": "Ullamcorper Corp.",
+            "phone": "7,032,704,034",
+            "phone2": "8,321,527,083",
+            "subcategories": ["111"],
+            "brands": ["79"],
+            "area": "24.9"
+        },
+        {
+            "level": "0",
+            "place": "c24",
+            "id": "33927099199",
+            "name": "Integer Eu Corporation",
+            "phone": "(0181) 326 7879",
+            "phone2": "5,562,541,386",
+            "subcategories": ["57"],
+            "brands": ["100"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c25",
+            "id": "5602212299",
+            "name": "Turpis Nec Mauris Incorporated",
+            "phone": "(010456) 27582",
+            "phone2": "500,542,203",
+            "subcategories": ["49"],
+            "brands": ["94"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c26",
+            "id": "90311684399",
+            "name": "Nullam Company",
+            "phone": "9,616,259,951",
+            "phone2": "(023) 2599 8159",
+            "subcategories": ["31"],
+            "brands": ["13"],
+            "area": "11.25"
+        },
+        {
+            "level": "0",
+            "place": "c27",
+            "id": "10633196599",
+            "name": "Eu Lacus Quisque LLP",
+            "phone": "0845 46 48",
+            "phone2": "8,001,111",
+            "subcategories": ["106"],
+            "brands": ["71"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c28",
+            "id": "18777741599",
+            "name": "Donec Dignissim Magna Industries",
+            "phone": "8,001,111",
+            "phone2": "800,258,807",
+            "subcategories": ["105"],
+            "brands": ["41"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c29",
+            "id": "2802366999",
+            "name": "Turpis In Corp.",
+            "phone": "9,168,242,690",
+            "phone2": "500,828,073",
+            "subcategories": ["85"],
+            "brands": ["21"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c30",
+            "id": "41295599599",
+            "name": "In Limited",
+            "phone": "8,701,090,804",
+            "phone2": "8,001,111",
+            "subcategories": ["43"],
+            "brands": ["22"],
+            "area": "11.25"
+        },
+        {
+            "level": "0",
+            "place": "c31",
+            "id": "64729473099",
+            "name": "Sit Amet Ultricies Inc.",
+            "phone": "8,006,530,328",
+            "phone2": "7,694,881,760",
+            "subcategories": ["41"],
+            "brands": ["33"],
+            "area": "9.75"
+        },
+        {
+            "level": "0",
+            "place": "c32",
+            "id": "82888414699",
+            "name": "Tortor Consulting",
+            "phone": "(01199) 05579",
+            "phone2": "7,866,689,046",
+            "subcategories": ["70"],
+            "brands": ["98"],
+            "area": "12.25"
+        },
+        {
+            "level": "0",
+            "place": "c33",
+            "id": "92495133799",
+            "name": "Duis Ltd",
+            "phone": "(016977) 4576",
+            "phone2": "5,665,637,375",
+            "subcategories": ["68"],
+            "brands": ["64"],
+            "area": "12.25"
+        },
+        {
+            "level": "0",
+            "place": "c34",
+            "id": "80942",
+            "name": "Tellus Limited",
+            "phone": "(0113) 851 8745",
+            "phone2": "3,948,183,530",
+            "subcategories": ["108"],
+            "brands": ["12"],
+            "area": "13.1"
+        },
+        {
+            "level": "0",
+            "place": "c35",
+            "id": "55220",
+            "name": "Volutpat Nulla Dignissim Ltd",
+            "phone": "7,636,809,233",
+            "phone2": "7,050,625,380",
+            "subcategories": ["101"],
+            "brands": ["37"],
+            "area": "11.4"
+        },
+        {
+            "level": "0",
+            "place": "c36",
+            "id": "74067",
+            "name": "Bibendum PC",
+            "phone": "(0181) 016 3974",
+            "phone2": "7,624,082,111",
+            "subcategories": ["114"],
+            "brands": ["33"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c37",
+            "id": "44110",
+            "name": "A Company",
+            "phone": "500,807,227",
+            "phone2": "5,504,131,263",
+            "subcategories": ["86"],
+            "brands": ["30"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c38",
+            "id": "23732",
+            "name": "Ut Sagittis Lobortis Limited",
+            "phone": "(0141) 162 9066",
+            "phone2": "(014634) 17680",
+            "subcategories": ["55"],
+            "brands": ["25"],
+            "area": "11.25"
+        },
+        {
+            "level": "0",
+            "place": "c39",
+            "id": "70516",
+            "name": "Volutpat Nulla Industries",
+            "phone": "(01019) 50850",
+            "phone2": "3,907,750,277",
+            "subcategories": ["97"],
+            "brands": ["28"],
+            "area": "9.75"
+        },
+        {
+            "level": "0",
+            "place": "c40",
+            "id": "45231",
+            "name": "Dolor Nonummy Ac Associates",
+            "phone": "3,460,328,770",
+            "phone2": "9,176,994,945",
+            "subcategories": ["69"],
+            "brands": ["1"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c41",
+            "id": "42381",
+            "name": "Adipiscing Mauris Associates",
+            "phone": "7,624,976,618",
+            "phone2": "7,624,354,658",
+            "subcategories": ["110"],
+            "brands": ["94"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c42",
+            "id": "93543",
+            "name": "Commodo Consulting",
+            "phone": "7,094,672,503",
+            "phone2": "3,816,193,728",
+            "subcategories": ["101"],
+            "brands": ["63"],
+            "area": "11.25"
+        },
+        {
+            "level": "0",
+            "place": "c43",
+            "id": "24213",
+            "name": "Interdum Feugiat Company",
+            "phone": "500,366,811",
+            "phone2": "800,324,283",
+            "subcategories": ["106"],
+            "brands": ["28"],
+            "area": "9.75"
+        },
+        {
+            "level": "0",
+            "place": "c44",
+            "id": "82224",
+            "name": "Dolor Donec Fringilla Corp.",
+            "phone": "8,508,041,633",
+            "phone2": "(012135) 74657",
+            "subcategories": ["91"],
+            "brands": ["66"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c45",
+            "id": "87045",
+            "name": "Aliquam Tincidunt Nunc Company",
+            "phone": "5,646,383,906",
+            "phone2": "(0111) 529 4705",
+            "subcategories": ["55"],
+            "brands": ["86"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c46",
+            "id": "96976",
+            "name": "Porta Elit Company",
+            "phone": "(0113) 851 8745",
+            "phone2": "3,948,183,530",
+            "subcategories": ["52"],
+            "brands": ["19"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c47",
+            "id": "11825",
+            "name": "Ultricies Ligula Nullam Foundation",
+            "phone": "7,636,809,233",
+            "phone2": "7,050,625,380",
+            "subcategories": ["80"],
+            "brands": ["95"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c48",
+            "id": "19694",
+            "name": "Vulputate Velit Eu Limited",
+            "phone": "(0181) 016 3974",
+            "phone2": "7,624,082,111",
+            "subcategories": ["45"],
+            "brands": ["34"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c49",
+            "id": "53654",
+            "name": "Pharetra Company",
+            "phone": "500,807,227",
+            "phone2": "5,504,131,263",
+            "subcategories": ["59"],
+            "brands": ["90"],
+            "area": "9"
+        },
+        {
+            "level": "0",
+            "place": "c50",
+            "id": "51397",
+            "name": "Ullamcorper Corp.",
+            "phone": "(0141) 162 9066",
+            "phone2": "(014634) 17680",
+            "subcategories": ["64"],
+            "brands": ["31"],
+            "area": "13.2"
+        },
+        {
+            "level": "0",
+            "place": "c51",
+            "id": "67900",
+            "name": "Integer Eu Corporation",
+            "phone": "(01019) 50850",
+            "phone2": "3,907,750,277",
+            "subcategories": ["50"],
+            "brands": ["84"],
+            "area": "13.2"
+        },
+        {
+            "level": "0",
+            "place": "c52",
+            "id": "86608",
+            "name": "Turpis Nec Mauris Incorporated",
+            "phone": "3,460,328,770",
+            "phone2": "9,176,994,945",
+            "subcategories": ["98"],
+            "brands": ["88"],
+            "area": "13.2"
+        },
+        {
+            "level": "0",
+            "place": "c53",
+            "id": "97000",
+            "name": "Nullam Company",
+            "phone": "7,624,976,618",
+            "phone2": "7,624,354,658",
+            "subcategories": ["71"],
+            "brands": ["46"],
+            "area": "13.2"
+        },
+        {
+            "level": "0",
+            "place": "c54",
+            "id": "11611",
+            "name": "Eu Lacus Quisque LLP",
+            "phone": "7,094,672,503",
+            "phone2": "3,816,193,728",
+            "subcategories": ["112"],
+            "brands": ["61"],
+            "area": "24.27"
+        },
+        {
+            "level": "0",
+            "place": "c55",
+            "id": "61097",
+            "name": "Donec Dignissim Magna Industries",
+            "phone": "500,366,811",
+            "phone2": "800,324,283",
+            "subcategories": ["113"],
+            "brands": ["60"],
+            "area": "10.5"
+        },
+        {
+            "level": "0",
+            "place": "c56",
+            "id": "35978",
+            "name": "Turpis In Corp.",
+            "phone": "8,508,041,633",
+            "phone2": "(012135) 74657",
+            "subcategories": ["97"],
+            "brands": ["24"],
+            "area": "10.7"
+        },
+        {
+            "level": "0",
+            "place": "c57",
+            "id": "65650",
+            "name": "In Limited",
+            "phone": "5,646,383,906",
+            "phone2": "(0111) 529 4705",
+            "subcategories": ["54"],
+            "brands": ["11"],
+            "area": "10.6"
+        },
+        {
+            "level": "0",
+            "place": "c58",
+            "id": "56054",
+            "name": "Sit Amet Ultricies Inc.",
+            "phone": "7,624,976,618",
+            "phone2": "7,624,354,658",
+            "subcategories": ["66"],
+            "brands": ["85"],
+            "area": "10"
+        },
+        {
+            "level": "0",
+            "place": "c59",
+            "id": "65088",
+            "name": "Tortor Consulting",
+            "phone": "7,094,672,503",
+            "phone2": "3,816,193,728",
+            "subcategories": ["40"],
+            "brands": ["16"],
+            "area": "11"
+        },
+        {
+            "level": "0",
+            "place": "c60",
+            "id": "55658",
+            "name": "Duis Ltd",
+            "phone": "500,366,811",
+            "phone2": "800,324,283",
+            "subcategories": ["36"],
+            "brands": ["17"],
+            "area": "15.7"
+        },
+        {
+            "level": "1",
+            "place": "a1",
+            "id": "11965042999",
+            "name": "In Faucibus Company",
+            "phone": "8,508,041,633",
+            "phone2": "(012135) 74657",
+            "subcategories": ["58"],
+            "brands": ["95"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "a1.1",
+            "id": "000111",
+            "name": "COMP A1.1",
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "a1.2",
+            "id": "02300110",
+            "name": "COMP A1.2",
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "a2",
+            "id": "76418161799",
+            "name": "Diam Sed Consulting",
+            "phone": "5,646,383,906",
+            "phone2": "(0111) 529 4705",
+            "subcategories": ["41"],
+            "brands": ["48"],
+            "area": "23.6"
+        },
+        {
+            "level": "1",
+            "place": "a3",
+            "id": "80822112199",
+            "name": "Sed Libero Proin Incorporated",
+            "phone": "(0121) 272 5817",
+            "phone2": "0845 46 40",
+            "subcategories": ["41"],
+            "brands": ["52"],
+            "area": "13.6"
+        },
+        {
+            "level": "1",
+            "place": "a4",
+            "id": "52582291699",
+            "name": "Ipsum Non Arcu Company",
+            "phone": "(0113) 851 8745",
+            "phone2": "3,948,183,530",
+            "subcategories": ["37"],
+            "brands": ["65"],
+            "area": "16.9"
+        },
+        {
+            "level": "1",
+            "place": "a5",
+            "id": "56307867899",
+            "name": "Nec Diam Duis LLC",
+            "phone": "7,636,809,233",
+            "phone2": "7,050,625,380",
+            "subcategories": ["74"],
+            "brands": ["85"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a6",
+            "id": "99724699099",
+            "name": "Interdum Institute",
+            "phone": "(0181) 016 3974",
+            "phone2": "7,624,082,111",
+            "subcategories": ["43"],
+            "brands": ["67"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a7",
+            "id": "24824932899",
+            "name": "Metus Eu Incorporated",
+            "phone": "500,807,227",
+            "phone2": "5,504,131,263",
+            "subcategories": ["48"],
+            "brands": ["96"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a8",
+            "id": "53555060799",
+            "name": "Penatibus Et Company",
+            "phone": "(0141) 162 9066",
+            "phone2": "(014634) 17680",
+            "subcategories": ["31"],
+            "brands": ["3"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a9",
+            "id": "61819499199",
+            "name": "Velit Aliquam Nisl Limited",
+            "phone": "(01019) 50850",
+            "phone2": "3,907,750,277",
+            "subcategories": ["79"],
+            "brands": ["10"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a10",
+            "id": "66974050499",
+            "name": "Sed Nec Incorporated",
+            "phone": "3,460,328,770",
+            "phone2": "9,176,994,945",
+            "subcategories": ["45"],
+            "brands": ["60"],
+            "area": "13.75"
+        },
+        {
+            "level": "1",
+            "place": "a11",
+            "id": "30828275899",
+            "name": "Ac Mattis Semper Inc.",
+            "phone": "7,624,976,618",
+            "phone2": "7,624,354,658",
+            "subcategories": ["57"],
+            "brands": ["99"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a12",
+            "id": "4974176499",
+            "name": "Donec Egestas LLP",
+            "phone": "7,094,672,503",
+            "phone2": "3,816,193,728",
+            "subcategories": ["68"],
+            "brands": ["77"],
+            "area": "12.15"
+        },
+        {
+            "level": "1",
+            "place": "a13",
+            "id": "88577119999",
+            "name": "Auctor Foundation",
+            "phone": "500,366,811",
+            "phone2": "800,324,283",
+            "subcategories": ["44"],
+            "brands": ["7"],
+            "area": "12.15"
+        },
+        {
+            "level": "1",
+            "place": "a14",
+            "id": "83364911699",
+            "name": "Nec Orci Donec Industries",
+            "phone": "8,508,041,633",
+            "phone2": "(012135) 74657",
+            "subcategories": ["107"],
+            "brands": ["100"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a15",
+            "id": "1503661099",
+            "name": "Ac Mi PC",
+            "phone": "5,646,383,906",
+            "phone2": "(0111) 529 4705",
+            "subcategories": ["35"],
+            "brands": ["85"],
+            "area": "13.75"
+        },
+        {
+            "level": "1",
+            "place": "a16",
+            "id": "47967657299",
+            "name": "Tempus Lorem Consulting",
+            "phone": "(013212) 05945",
+            "phone2": "9,551,511,124",
+            "subcategories": ["114"],
+            "brands": ["33"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a17",
+            "id": "46329455899",
+            "name": "Auctor Corp.",
+            "phone": "(01076) 33851",
+            "phone2": "3,689,877,026",
+            "subcategories": ["36"],
+            "brands": ["31"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a18",
+            "id": "37400913099",
+            "name": "Et Ultrices Industries",
+            "phone": "5,676,021,101",
+            "phone2": "(016977) 8252",
+            "subcategories": ["79"],
+            "brands": ["45"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a19",
+            "id": "66241517899",
+            "name": "Pede Nunc Associates",
+            "phone": "(025) 3562 7361",
+            "phone2": "7,624,370,571",
+            "subcategories": ["94"],
+            "brands": ["11"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a20",
+            "id": "35554502499",
+            "name": "A Odio Semper Institute",
+            "phone": "9,962,552,863",
+            "phone2": "7,091,835,863",
+            "subcategories": ["104"],
+            "brands": ["34"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a21",
+            "id": "41902028399",
+            "name": "Ut Mi Inc.",
+            "phone": "(01797) 320992",
+            "phone2": "7,826,935,109",
+            "subcategories": ["37"],
+            "brands": ["29"],
+            "area": "16.9"
+        },
+        {
+            "level": "1",
+            "place": "a22",
+            "id": "27777647599",
+            "name": "Vitae Associates",
+            "phone": "8,001,111",
+            "phone2": "8,002,580,023",
+            "subcategories": ["93"],
+            "brands": ["28"],
+            "area": "13.15"
+        },
+        {
+            "level": "1",
+            "place": "a23",
+            "id": "61745142799",
+            "name": "Ac Orci Ut LLP",
+            "phone": "7,624,403,995",
+            "phone2": "0845 46 40",
+            "subcategories": ["109"],
+            "brands": ["100"],
+            "area": "23.6"
+        },
+        {
+            "level": "1",
+            "place": "a24",
+            "id": "97921859999",
+            "name": "Netus Et Malesuada PC",
+            "phone": "(0121) 204 5083",
+            "phone2": "8,009,390,188",
+            "subcategories": ["59"],
+            "brands": ["35"],
+            "area": "34.12"
+        },
+        {
+            "level": "1",
+            "place": "a25",
+            "id": "86678625799",
+            "name": "Fringilla Mi Lacinia PC",
+            "phone": "0845 46 45",
+            "phone2": "(022) 9412 0919",
+            "subcategories": ["100"],
+            "brands": ["84"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a26",
+            "id": "18332489499",
+            "name": "Ultrices Institute",
+            "phone": "8,228,504,437",
+            "phone2": "8,001,111",
+            "subcategories": ["93"],
+            "brands": ["16"],
+            "area": "24.4"
+        },
+        {
+            "level": "1",
+            "place": "a27",
+            "id": "37237561299",
+            "name": "Fringilla Donec Feugiat Limited",
+            "phone": "5,676,717,426",
+            "phone2": "3,267,460,907",
+            "subcategories": ["58"],
+            "brands": ["10"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a28",
+            "id": "70301229599",
+            "name": "Malesuada Fames Industries",
+            "phone": "5,694,114,247",
+            "phone2": "7,534,999,287",
+            "subcategories": ["68"],
+            "brands": ["60"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a29",
+            "id": "10505340899",
+            "name": "Id Libero Donec Limited",
+            "phone": "8,242,072,199",
+            "phone2": "8,004,109,494",
+            "subcategories": ["46"],
+            "brands": ["100"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a30",
+            "id": "40584588699",
+            "name": "Facilisi Sed Neque PC",
+            "phone": "500,756,006",
+            "phone2": "3,156,579,184",
+            "subcategories": ["101"],
+            "brands": ["39"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a31",
+            "id": "16630275499",
+            "name": "Gravida Ltd",
+            "phone": "5,617,028,718",
+            "phone2": "(024) 7302 7865",
+            "subcategories": ["51"],
+            "brands": ["65"],
+            "area": "19.5"
+        },
+        {
+            "level": "1",
+            "place": "a32",
+            "id": "25964424899",
+            "name": "Bibendum Sed Company",
+            "phone": "7,555,863,770",
+            "phone2": "7,229,573,221",
+            "subcategories": ["35"],
+            "brands": ["77"],
+            "area": "22.35"
+        },
+        {
+            "level": "1",
+            "place": "a33",
+            "id": "96226879399",
+            "name": "Adipiscing Consulting",
+            "phone": "(01754) 335655",
+            "phone2": "(01235) 61840",
+            "subcategories": ["37"],
+            "brands": ["95"],
+            "area": "32.6"
+        },
+        {
+            "level": "1",
+            "place": "a34",
+            "id": "67765081699",
+            "name": "Ornare Elit Company",
+            "phone": "3,572,809,322",
+            "phone2": "0845 46 40",
+            "subcategories": ["49"],
+            "brands": ["31"],
+            "area": "40.5"
+        },
+        {
+            "level": "1",
+            "place": "a35",
+            "id": "35547581799",
+            "name": "Metus Limited",
+            "phone": "800,045,224",
+            "phone2": "(01952) 493803",
+            "subcategories": ["113"],
+            "brands": ["19"],
+            "area": "40.5"
+        },
+        {
+            "level": "1",
+            "place": "a36",
+            "id": "19934315199",
+            "name": "Vestibulum Foundation",
+            "phone": "7,701,277,673",
+            "phone2": "800,429,470",
+            "subcategories": ["69"],
+            "brands": ["71"],
+            "area": "40.5"
+        },
+        {
+            "level": "1",
+            "place": "b1",
+            "id": "58584819899",
+            "name": "Lacus Consulting",
+            "phone": "7,624,401,722",
+            "phone2": "500,155,037",
+            "subcategories": ["77"],
+            "brands": ["11"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b2",
+            "id": "14451803499",
+            "name": "Nullam Industries",
+            "phone": "(025) 1588 6219",
+            "phone2": "(0121) 717 0652",
+            "subcategories": ["113"],
+            "brands": ["97"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b3",
+            "id": "27422706799",
+            "name": "Libero Foundation",
+            "phone": "8,001,111",
+            "phone2": "5,569,966,851",
+            "subcategories": ["69"],
+            "brands": ["65"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b4",
+            "id": "70959397699",
+            "name": "Pede Ac Urna Consulting",
+            "phone": "8,001,111",
+            "phone2": "800,019,967",
+            "subcategories": ["37"],
+            "brands": ["95"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b5",
+            "id": "55542379299",
+            "name": "A Sollicitudin Orci Incorporated",
+            "phone": "(01509) 85070",
+            "phone2": "7,624,051,650",
+            "subcategories": ["31"],
+            "brands": ["53"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b6",
+            "id": "17334691599",
+            "name": "Amet PC",
+            "phone": "(025) 1846 5205",
+            "phone2": "5,669,746,353",
+            "subcategories": ["86"],
+            "brands": ["57"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b7",
+            "id": "57704537899",
+            "name": "Sed Dolor Fusce LLC",
+            "phone": "(01827) 228761",
+            "phone2": "0845 46 45",
+            "subcategories": ["33"],
+            "brands": ["93"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b8",
+            "id": "75587089099",
+            "name": "Nec Corp.",
+            "phone": "(019113) 71242",
+            "phone2": "8,001,111",
+            "subcategories": ["46"],
+            "brands": ["9"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b9",
+            "id": "69395465699",
+            "name": "Donec Luctus LLC",
+            "phone": "(01026) 901590",
+            "phone2": "8,374,587,677",
+            "subcategories": ["96"],
+            "brands": ["94"],
+            "area": "15.75"
+        },
+        {
+            "level": "1",
+            "place": "b10",
+            "id": "93413748899",
+            "name": "At Pretium Aliquet Ltd",
+            "phone": "(016977) 6733",
+            "phone2": "(024) 3878 2175",
+            "subcategories": ["33"],
+            "brands": ["100"],
+            "area": "19.69"
+        },
+        {
+            "level": "1",
+            "place": "b11",
+            "id": "66217123899",
+            "name": "Vel Arcu LLP",
+            "phone": "0845 46 46",
+            "phone2": "(01124) 512580",
+            "subcategories": ["53"],
+            "brands": ["16"],
+            "area": "28.88"
+        },
+        {
+            "level": "1",
+            "place": "b12",
+            "id": "18421820299",
+            "name": "Nulla LLC",
+            "phone": "3,654,742,177",
+            "phone2": "800,220,944",
+            "subcategories": ["33"],
+            "brands": ["41"],
+            "area": "8.54"
+        },
+        {
+            "level": "1",
+            "place": "b13",
+            "id": "57913918499",
+            "name": "Duis Ac Arcu Industries",
+            "phone": "8,001,111",
+            "phone2": "(013468) 80849",
+            "subcategories": ["91"],
+            "brands": ["33"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b14",
+            "id": "7339660799",
+            "name": "Massa Non Ltd",
+            "phone": "7,050,519,427",
+            "phone2": "(016977) 2531",
+            "subcategories": ["111"],
+            "brands": ["74"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b15",
+            "id": "43405639199",
+            "name": "Mauris Ut Mi Associates",
+            "phone": "(010989) 79996",
+            "phone2": "(01129) 725630",
+            "subcategories": ["73"],
+            "brands": ["13"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b16",
+            "id": "442455099",
+            "name": "Mattis LLP",
+            "phone": "8,007,711,018",
+            "phone2": "7,331,990,710",
+            "subcategories": ["31"],
+            "brands": ["18"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b17",
+            "id": "14868507999",
+            "name": "Aliquet LLC",
+            "phone": "0845 46 40",
+            "phone2": "(0117) 613 9346",
+            "subcategories": ["85"],
+            "brands": ["28"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b18",
+            "id": "76674931199",
+            "name": "Nulla Interdum Curabitur Corporation",
+            "phone": "9,070,408,662",
+            "phone2": "8,000,678,471",
+            "subcategories": ["54"],
+            "brands": ["5"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "b19",
+            "id": "3958544999",
+            "name": "Erat Vitae Risus Company",
+            "phone": "7,027,626,443",
+            "phone2": "(025) 1853 0171",
+            "subcategories": ["98"],
+            "brands": ["87"],
+            "area": "7.5"
+        },
+        {
+            "level": "1",
+            "place": "b20",
+            "id": "69273394799",
+            "name": "Vehicula Pellentesque PC",
+            "phone": "5,681,939,704",
+            "phone2": "8,001,111",
+            "subcategories": ["67"],
+            "brands": ["71"],
+            "area": "19.25"
+        },
+        {
+            "level": "1",
+            "place": "b21",
+            "id": "9957788399",
+            "name": "Maecenas Inc.",
+            "phone": "7,659,377,808",
+            "phone2": "7,004,462,023",
+            "subcategories": ["53"],
+            "brands": ["4"],
+            "area": "13.1"
+        },
+        {
+            "level": "1",
+            "place": "b22",
+            "id": "67691744899",
+            "name": "Posuere Ltd",
+            "phone": "7,697,356,901",
+            "phone2": "(027) 5491 0276",
+            "subcategories": ["99"],
+            "brands": ["96"],
+            "area": "14"
+        },
+        {
+            "level": "1",
+            "place": "b23",
+            "id": "41700460899",
+            "name": "Nec Enim Industries",
+            "phone": "7,667,274,440",
+            "phone2": "0845 46 42",
+            "subcategories": ["103"],
+            "brands": ["75"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b24",
+            "id": "80334973799",
+            "name": "Inceptos Hymenaeos Corporation",
+            "phone": "8,001,111",
+            "phone2": "7,624,257,715",
+            "subcategories": ["53"],
+            "brands": ["38"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b25",
+            "id": "23809582999",
+            "name": "Rhoncus Donec Est Inc.",
+            "phone": "(022) 2704 2697",
+            "phone2": "3,538,942,601",
+            "subcategories": ["45"],
+            "brands": ["82"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b26",
+            "id": "23790081499",
+            "name": "Pharetra Quisque Corporation",
+            "phone": "7,089,348,527",
+            "phone2": "(016977) 6983",
+            "subcategories": ["98"],
+            "brands": ["82"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b27",
+            "id": "60827575499",
+            "name": "Pede Associates",
+            "phone": "0845 46 41",
+            "phone2": "5,598,036,446",
+            "subcategories": ["78"],
+            "brands": ["32"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b28",
+            "id": "57494957499",
+            "name": "Mauris Rhoncus Id Corp.",
+            "phone": "(01423) 15523",
+            "phone2": "5,576,637,481",
+            "subcategories": ["78"],
+            "brands": ["3"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b29",
+            "id": "23737272799",
+            "name": "Aenean Massa Industries",
+            "phone": "3,675,252,360",
+            "phone2": "8,384,502,520",
+            "subcategories": ["54"],
+            "brands": ["70"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "b30",
+            "id": "58350779099",
+            "name": "Cursus Nunc Mauris Corp.",
+            "phone": "0845 46 41",
+            "phone2": "(01136) 098313",
+            "subcategories": ["62"],
+            "brands": ["64"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b31",
+            "id": "3347159099",
+            "name": "Varius PC",
+            "phone": "3,093,822,191",
+            "phone2": "8,001,111",
+            "subcategories": ["77"],
+            "brands": ["25"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b32",
+            "id": "79275395699",
+            "name": "Ultricies Incorporated",
+            "phone": "(0131) 836 0969",
+            "phone2": "056 6077 5234",
+            "subcategories": ["86"],
+            "brands": ["67"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b33",
+            "id": "7532807299",
+            "name": "Mauris Institute",
+            "phone": "07532 977892",
+            "phone2": "076 8221 2120",
+            "subcategories": ["112"],
+            "brands": ["33"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b34",
+            "id": "6328395499",
+            "name": "Leo Morbi Neque Industries",
+            "phone": "0872 181 7297",
+            "phone2": "07624 029804",
+            "subcategories": ["66"],
+            "brands": ["84"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b35",
+            "id": "92710786199",
+            "name": "Morbi LLC",
+            "phone": "(0111) 221 3842",
+            "phone2": "(0112) 693 8524",
+            "subcategories": ["40"],
+            "brands": ["1"],
+            "area": "13.5"
+        },
+        {
+            "level": "1",
+            "place": "b36",
+            "id": "26466378299",
+            "name": "At Arcu Vestibulum Foundation",
+            "phone": "07891 190031",
+            "phone2": "(01482) 04518",
+            "subcategories": ["110"],
+            "brands": ["7"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b37",
+            "id": "39420231199",
+            "name": "Metus Incorporated",
+            "phone": "(022) 8997 2630",
+            "phone2": "(01390) 776343",
+            "subcategories": ["45"],
+            "brands": ["79"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b38",
+            "id": "76317875199",
+            "name": "Nunc Ltd",
+            "phone": "055 3047 1616",
+            "phone2": "(014038) 70163",
+            "subcategories": ["47"],
+            "brands": ["44"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b39",
+            "id": "53733179699",
+            "name": "Et Commodo At Inc.",
+            "phone": "0909 627 8953",
+            "phone2": "(024) 6052 4778",
+            "subcategories": ["82"],
+            "brands": ["17"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b40",
+            "id": "92221872299",
+            "name": "Sed Dictum Associates",
+            "phone": "(022) 2958 2044",
+            "phone2": "055 5456 1979",
+            "subcategories": ["108"],
+            "brands": ["32"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "b41",
+            "id": "61470104899",
+            "name": "Aliquam Erat Volutpat Corporation",
+            "phone": "0845 46 48",
+            "phone2": "0800 233007",
+            "subcategories": ["110"],
+            "brands": ["98"],
+            "area": "8.75"
+        },
+        {
+            "level": "1",
+            "place": "b42",
+            "id": "3236731899",
+            "name": "Ligula Inc.",
+            "phone": "0800 125 4430",
+            "phone2": "0800 1111",
+            "subcategories": ["34"],
+            "brands": ["73"],
+            "area": "28.75"
+        },
+        {
+            "level": "1",
+            "place": "b43",
+            "id": "61927706899",
+            "name": "Lobortis Nisi Inc.",
+            "phone": "(0115) 023 8563",
+            "phone2": "(015049) 70474",
+            "subcategories": ["100"],
+            "brands": ["16"],
+            "area": "28.75"
+        },
+        {
+            "level": "1",
+            "place": "b44",
+            "id": "17982011299",
+            "name": "Augue Institute",
+            "phone": "(013963) 48201",
+            "phone2": "0357 710 0198",
+            "subcategories": ["41"],
+            "brands": ["37"],
+            "area": "15"
+        },
+        {
+            "level": "1",
+            "place": "b45",
+            "id": "62616294099",
+            "name": "Leo LLP",
+            "phone": "055 1632 1081",
+            "phone2": "0800 267 5058",
+            "subcategories": ["51"],
+            "brands": ["47"],
+            "area": "15"
+        },
+        {
+            "level": "1",
+            "place": "b46",
+            "id": "26453936399",
+            "name": "Tristique Pharetra Corp.",
+            "phone": "(01501) 21243",
+            "phone2": "(016977) 8889",
+            "subcategories": ["37"],
+            "brands": ["83"],
+            "area": "15"
+        },
+        {
+            "level": "1",
+            "place": "b47",
+            "id": "91757045599",
+            "name": "Cursus Integer Company",
+            "phone": "0800 1111",
+            "phone2": "07624 172351",
+            "subcategories": ["94"],
+            "brands": ["99"],
+            "area": "10"
+        },
+        {
+            "level": "1",
+            "place": "b48",
+            "id": "90641498999",
+            "name": "Massa Vestibulum Accumsan Ltd",
+            "phone": "07624 435158",
+            "phone2": "(022) 9357 1433",
+            "subcategories": ["36"],
+            "brands": ["69"],
+            "area": "22.5"
+        },
+        {
+            "level": "1",
+            "place": "b49",
+            "id": "39727079799",
+            "name": "Interdum PC",
+            "phone": "(0111) 940 5593",
+            "phone2": "0981 897 2656",
+            "subcategories": ["39"],
+            "brands": ["23"],
+            "area": "28.2"
+        },
+        {
+            "level": "1",
+            "place": "b50",
+            "id": "26565384299",
+            "name": "Praesent Incorporated",
+            "phone": "0981 632 6304",
+            "phone2": "070 9969 7873",
+            "subcategories": ["58"],
+            "brands": ["78"],
+            "area": "28.25"
+        },
+        {
+            "level": "1",
+            "place": "c1",
+            "id": "54634507699",
+            "name": "Nam Tempor Diam PC",
+            "phone": "055 2255 0708",
+            "phone2": "0800 442496",
+            "subcategories": ["44"],
+            "brands": ["87"],
+            "area": "78"
+        },
+        {
+            "level": "1",
+            "place": "c2",
+            "id": "83339751699",
+            "name": "In Faucibus Orci Incorporated",
+            "phone": "(01793) 187434",
+            "phone2": "(020) 1900 5872",
+            "subcategories": ["62"],
+            "brands": ["97"],
+            "area": "104"
+        },
+        {
+            "level": "1",
+            "place": "c3",
+            "id": "16676521599",
+            "name": "Cras LLP",
+            "phone": "070 6325 7820",
+            "phone2": "07934 252653",
+            "subcategories": ["69"],
+            "brands": ["4"],
+            "area": "49"
+        },
+        {
+            "level": "1",
+            "place": "c4",
+            "id": "10322177399",
+            "name": "Convallis Ante Lectus Inc.",
+            "phone": "(014250) 31599",
+            "phone2": "070 4095 2497",
+            "subcategories": ["65"],
+            "brands": ["37"],
+            "area": "12.2"
+        },
+        {
+            "level": "1",
+            "place": "c5",
+            "id": "79947355499",
+            "name": "Est Nunc Industries",
+            "phone": "07387 419421",
+            "phone2": "07998 064659",
+            "subcategories": ["62"],
+            "brands": ["28"],
+            "area": "13.2"
+        },
+        {
+            "level": "1",
+            "place": "c6",
+            "id": "46628364299",
+            "name": "Sagittis Duis LLC",
+            "phone": "0800 1111",
+            "phone2": "(016977) 4905",
+            "subcategories": ["37"],
+            "brands": ["81"],
+            "area": "86.4"
+        },
+        {
+            "level": "1",
+            "place": "c7",
+            "id": "29730486399",
+            "name": "Sagittis Ltd",
+            "phone": "0500 591649",
+            "phone2": "0500 003222",
+            "subcategories": ["71"],
+            "brands": ["1"],
+            "area": "86.4"
+        },
+        {
+            "level": "1",
+            "place": "c8",
+            "id": "84520662099",
+            "name": "Consequat Company",
+            "phone": "(0114) 167 3240",
+            "phone2": "055 5168 7180",
+            "subcategories": ["108"],
+            "brands": ["8"],
+            "area": "56.7"
+        },
+        {
+            "level": "1",
+            "place": "c9",
+            "id": "55911334199",
+            "name": "Id Enim Curabitur Corp.",
+            "phone": "076 7859 2435",
+            "phone2": "(016105) 34545",
+            "subcategories": ["110"],
+            "brands": ["34"],
+            "area": "56.7"
+        },
+        {
+            "level": "1",
+            "place": "c10",
+            "id": "25789658199",
+            "name": "Luctus Sit Amet Company",
+            "phone": "(016977) 8392",
+            "phone2": "07624 719716",
+            "subcategories": ["113"],
+            "brands": ["33"],
+            "area": "13.2"
+        },
+        {
+            "level": "1",
+            "place": "c11",
+            "id": "62958903999",
+            "name": "Eget Industries",
+            "phone": "(01309) 928349",
+            "phone2": "0800 1111",
+            "subcategories": ["46"],
+            "brands": ["27"],
+            "area": "36"
+        },
+        {
+            "level": "1",
+            "place": "c12",
+            "id": "17217742799",
+            "name": "Dictum Foundation",
+            "phone": "0800 1111",
+            "phone2": "0845 46 45",
+            "subcategories": ["50"],
+            "brands": ["94"],
+            "area": "22.5"
+        },
+        {
+            "level": "1",
+            "place": "c13",
+            "id": "6385571599",
+            "name": "Ut Odio Limited",
+            "phone": "07624 241998",
+            "phone2": "055 0051 0367",
+            "subcategories": ["40"],
+            "brands": ["53"],
+            "area": "22.5"
+        },
+        {
+            "level": "1",
+            "place": "c14",
+            "id": "55811070599",
+            "name": "Orci Sem Corporation",
+            "phone": "(0116) 256 5844",
+            "phone2": "(020) 4321 6914",
+            "subcategories": ["74"],
+            "brands": ["83"],
+            "area": "22.5"
+        },
+        {
+            "level": "1",
+            "place": "c15",
+            "id": "60520994799",
+            "name": "Pede Suspendisse Dui Incorporated",
+            "phone": "(016977) 1659",
+            "phone2": "(016977) 2231",
+            "subcategories": ["32"],
+            "brands": ["78"],
+            "area": "22"
+        },
+        {
+            "level": "1",
+            "place": "c16",
+            "id": "69536041199",
+            "name": "Laoreet Incorporated",
+            "phone": "070 4025 1432",
+            "phone2": "0500 780539",
+            "subcategories": ["98"],
+            "brands": ["22"],
+            "area": "27.9"
+        },
+        {
+            "level": "1",
+            "place": "c17",
+            "id": "26445309599",
+            "name": "Mauris Ipsum Porta Foundation",
+            "phone": "07169 174136",
+            "phone2": "0845 46 46",
+            "subcategories": ["31"],
+            "brands": ["34"],
+            "area": "15.4"
+        },
+        {
+            "level": "1",
+            "place": "c18",
+            "id": "51653631899",
+            "name": "Vel Mauris Integer PC",
+            "phone": "(01622) 16421",
+            "phone2": "(01206) 018988",
+            "subcategories": ["103"],
+            "brands": ["1"],
+            "area": "15.4"
+        },
+        {
+            "level": "1",
+            "place": "c19",
+            "id": "48363162399",
+            "name": "Tincidunt Vehicula Inc.",
+            "phone": "07746 453704",
+            "phone2": "0866 309 1853",
+            "subcategories": ["45"],
+            "brands": ["33"],
+            "area": "17.8"
+        },
+        {
+            "level": "1",
+            "place": "c20",
+            "id": "61788011399",
+            "name": "Donec Tempus Institute",
+            "phone": "0800 587282",
+            "phone2": "056 0374 3223",
+            "subcategories": ["32"],
+            "brands": ["45"],
+            "area": "16.6"
+        },
+        {
+            "level": "1",
+            "place": "c21",
+            "id": "37288337999",
+            "name": "Interdum Curabitur LLC",
+            "phone": "070 5212 6218",
+            "phone2": "0500 709988",
+            "subcategories": ["74"],
+            "brands": ["64"],
+            "area": "16.6"
+        },
+        {
+            "level": "1",
+            "place": "c22",
+            "id": "15368574699",
+            "name": "Vel LLP",
+            "phone": "070 9681 0804",
+            "phone2": "055 6733 1049",
+            "subcategories": ["86"],
+            "brands": ["34"],
+            "area": "16.6"
+        },
+        {
+            "level": "1",
+            "place": "c23",
+            "id": "6869606899",
+            "name": "Ornare Corporation",
+            "phone": "07391 064635",
+            "phone2": "0952 085 5716",
+            "subcategories": ["63"],
+            "brands": ["89"],
+            "area": "15.4"
+        },
+        {
+            "level": "1",
+            "place": "c24",
+            "id": "82218628499",
+            "name": "Ullamcorper Eu Euismod Ltd",
+            "phone": "056 7569 3978",
+            "phone2": "(0111) 443 2804",
+            "subcategories": ["61"],
+            "brands": ["14"],
+            "area": "15.4"
+        },
+        {
+            "level": "1",
+            "place": "c25",
+            "id": "53381488799",
+            "name": "Mauris Consulting",
+            "phone": "(016977) 6910",
+            "phone2": "(018762) 13928",
+            "subcategories": ["60"],
+            "brands": ["8"],
+            "area": "17.8"
+        },
+        {
+            "level": "1",
+            "place": "c26",
+            "id": "69883872699",
+            "name": "Risus Ltd",
+            "phone": "(0131) 300 2877",
+            "phone2": "076 6717 7950",
+            "subcategories": ["90"],
+            "brands": ["15"],
+            "area": "24.9"
+        },
+        {
+            "level": "1",
+            "place": "c27",
+            "id": "52829899299",
+            "name": "Fusce Industries",
+            "phone": "056 5052 7425",
+            "phone2": "0800 1111",
+            "subcategories": ["83"],
+            "brands": ["78"],
+            "area": "24.9"
+        },
+        {
+            "level": "1",
+            "place": "c28",
+            "id": "36400602499",
+            "name": "Tincidunt Congue Corp.",
+            "phone": "(016977) 5460",
+            "phone2": "0391 118 4959",
+            "subcategories": ["46"],
+            "brands": ["80"],
+            "area": "46.1"
+        },
+        {
+            "level": "1",
+            "place": "c29",
+            "id": "39582109999",
+            "name": "Tempus Lorem Fringilla LLP",
+            "phone": "(01352) 79017",
+            "phone2": "055 2442 7159",
+            "subcategories": ["83"],
+            "brands": ["71"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c30",
+            "id": "86295083899",
+            "name": "Aenean Sed Institute",
+            "phone": "(021) 9412 1625",
+            "phone2": "07624 503007",
+            "subcategories": ["79"],
+            "brands": ["89"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c31",
+            "id": "97979407599",
+            "name": "Adipiscing Elit Etiam LLP",
+            "phone": "076 0444 9025",
+            "phone2": "076 8976 3685",
+            "subcategories": ["103"],
+            "brands": ["12"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "c32",
+            "id": "93973909899",
+            "name": "Ornare Industries",
+            "phone": "070 8017 0384",
+            "phone2": "(0117) 760 2276",
+            "subcategories": ["73"],
+            "brands": ["25"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c33",
+            "id": "58455196299",
+            "name": "Mi Eleifend Foundation",
+            "phone": "0359 332 8435",
+            "phone2": "0800 602 6381",
+            "subcategories": ["63"],
+            "brands": ["56"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c34",
+            "id": "90723167199",
+            "name": "Sed Eu Nibh Industries",
+            "phone": "(0116) 183 9928",
+            "phone2": "055 3933 4998",
+            "subcategories": ["39"],
+            "brands": ["60"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c35",
+            "id": "72832750099",
+            "name": "Auctor Odio A Foundation",
+            "phone": "0500 959460",
+            "phone2": "056 2240 8122",
+            "subcategories": ["54"],
+            "brands": ["39"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "c36",
+            "id": "8500707899",
+            "name": "Id Mollis LLC",
+            "phone": "(010083) 27990",
+            "phone2": "0994 553 0002",
+            "subcategories": ["53"],
+            "brands": ["86"],
+            "area": "9.75"
+        },
+        {
+            "level": "1",
+            "place": "c37",
+            "id": "73557397899",
+            "name": "Hendrerit A Arcu Consulting",
+            "phone": "(024) 8679 8476",
+            "phone2": "0800 543 1629",
+            "subcategories": ["46"],
+            "brands": ["26"],
+            "area": "12.25"
+        },
+        {
+            "level": "1",
+            "place": "c38",
+            "id": "36318748599",
+            "name": "Nonummy Ut Foundation",
+            "phone": "0802 518 1153",
+            "phone2": "0800 416 9538",
+            "subcategories": ["63"],
+            "brands": ["58"],
+            "area": "12.25"
+        },
+        {
+            "level": "1",
+            "place": "c39",
+            "id": "99998471899",
+            "name": "Libero PC",
+            "phone": "055 0130 9339",
+            "phone2": "(016977) 2597",
+            "subcategories": ["43"],
+            "brands": ["59"],
+            "area": "13.1"
+        },
+        {
+            "level": "1",
+            "place": "c40",
+            "id": "44693896499",
+            "name": "In Company",
+            "phone": "0947 461 5334",
+            "phone2": "0949 784 9184",
+            "subcategories": ["36"],
+            "brands": ["21"],
+            "area": "11.4"
+        },
+        {
+            "level": "1",
+            "place": "c41",
+            "id": "93493476199",
+            "name": "Ut LLC",
+            "phone": "(016199) 83870",
+            "phone2": "(016977) 4984",
+            "subcategories": ["73"],
+            "brands": ["85"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c42",
+            "id": "31767189299",
+            "name": "Malesuada Foundation",
+            "phone": "0845 46 41",
+            "phone2": "0500 112869",
+            "subcategories": ["50"],
+            "brands": ["54"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c43",
+            "id": "25718425299",
+            "name": "Lectus Quis Company",
+            "phone": "076 7935 5442",
+            "phone2": "07624 633371",
+            "subcategories": ["88"],
+            "brands": ["59"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "c44",
+            "id": "93210212899",
+            "name": "Tristique Incorporated",
+            "phone": "070 5910 8341",
+            "phone2": "076 3027 5023",
+            "subcategories": ["68"],
+            "brands": ["26"],
+            "area": "9.75"
+        },
+        {
+            "level": "1",
+            "place": "c45",
+            "id": "66858628099",
+            "name": "Mi Lacinia Mattis Consulting",
+            "phone": "(01847) 987261",
+            "phone2": "076 5928 8098",
+            "subcategories": ["81"],
+            "brands": ["76"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c46",
+            "id": "87757744899",
+            "name": "Elit Curabitur Limited",
+            "phone": "(0111) 428 6011",
+            "phone2": "07624 269267",
+            "subcategories": ["95"],
+            "brands": ["27"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c47",
+            "id": "32712796899",
+            "name": "Tincidunt Inc.",
+            "phone": "0800 1111",
+            "phone2": "0800 496 8630",
+            "subcategories": ["76"],
+            "brands": ["1"],
+            "area": "11.25"
+        },
+        {
+            "level": "1",
+            "place": "c48",
+            "id": "71298554699",
+            "name": "Commodo At Libero Incorporated",
+            "phone": "(016977) 4957",
+            "phone2": "(0118) 565 9164",
+            "subcategories": ["41"],
+            "brands": ["100"],
+            "area": "9.75"
+        },
+        {
+            "level": "1",
+            "place": "c49",
+            "id": "19582123299",
+            "name": "Interdum Ligula LLC",
+            "phone": "(01042) 528391",
+            "phone2": "0817 094 2655",
+            "subcategories": ["41"],
+            "brands": ["21"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c50",
+            "id": "80338874699",
+            "name": "Cubilia Foundation",
+            "phone": "055 4929 1822",
+            "phone2": "(01035) 67221",
+            "subcategories": ["88"],
+            "brands": ["44"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c51",
+            "id": "70415475899",
+            "name": "Eu Company",
+            "phone": "0800 771710",
+            "phone2": "07207 621499",
+            "subcategories": ["92"],
+            "brands": ["100"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c52",
+            "id": "94357338899",
+            "name": "Ligula Aliquam Erat Ltd",
+            "phone": "055 9842 9130",
+            "phone2": "(023) 3079 1293",
+            "subcategories": ["87"],
+            "brands": ["100"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c53",
+            "id": "21329402699",
+            "name": "Massa Non Ante Company",
+            "phone": "076 8865 4384",
+            "phone2": "(016977) 2907",
+            "subcategories": ["46"],
+            "brands": ["80"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c54",
+            "id": "64689151899",
+            "name": "Et Ultrices Posuere Industries",
+            "phone": "(0171) 716 7265",
+            "phone2": "0800 640881",
+            "subcategories": ["100"],
+            "brands": ["52"],
+            "area": "9"
+        },
+        {
+            "level": "1",
+            "place": "c55",
+            "id": "26646994599",
+            "name": "Laoreet Institute",
+            "phone": "070 6369 9496",
+            "phone2": "(018991) 87408",
+            "subcategories": ["35"],
+            "brands": ["39"],
+            "area": "13.12"
+        },
+        {
+            "level": "1",
+            "place": "c56",
+            "id": "64850399699",
+            "name": "Metus Inc.",
+            "phone": "07624 502871",
+            "phone2": "(021) 5763 2334",
+            "subcategories": ["106"],
+            "brands": ["94"],
+            "area": "13.12"
+        },
+        {
+            "level": "1",
+            "place": "c57",
+            "id": "368710999",
+            "name": "Arcu Associates",
+            "phone": "(0121) 982 2609",
+            "phone2": "0892 384 4868",
+            "subcategories": ["30"],
+            "brands": ["17"],
+            "area": "13.12"
+        },
+        {
+            "level": "1",
+            "place": "c58",
+            "id": "37942293499",
+            "name": "Morbi Quis Ltd",
+            "phone": "(0111) 474 2985",
+            "phone2": "0800 015 7462",
+            "subcategories": ["88"],
+            "brands": ["56"],
+            "area": "13.12"
+        },
+        {
+            "level": "1",
+            "place": "c59",
+            "id": "54832667699",
+            "name": "Cum Sociis Natoque Ltd",
+            "phone": "(01510) 66253",
+            "phone2": "(015743) 98018",
+            "subcategories": ["100"],
+            "brands": ["46"],
+            "area": "24.27"
+        },
+        {
+            "level": "1",
+            "place": "c60",
+            "id": "77842803399",
+            "name": "Fusce Institute",
+            "phone": "0952 779 6498",
+            "phone2": "076 4040 9683",
+            "subcategories": ["54"],
+            "brands": ["52"],
+            "area": "10.5"
+        },
+        {
+            "level": "1",
+            "place": "c61",
+            "id": "69577933899",
+            "name": "Et Magnis Dis Foundation",
+            "phone": "076 0751 7897",
+            "phone2": "0317 476 8069",
+            "subcategories": ["89"],
+            "brands": ["52"],
+            "area": "10.7"
+        },
+        {
+            "level": "1",
+            "place": "c62",
+            "id": "18674381899",
+            "name": "Mus Proin Vel Associates",
+            "phone": "0368 068 7976",
+            "phone2": "0361 029 5998",
+            "subcategories": ["96"],
+            "brands": ["56"],
+            "area": "10.6"
+        },
+        {
+            "level": "1",
+            "place": "c63",
+            "id": "98563476299",
+            "name": "A Neque Limited",
+            "phone": "056 1846 7599",
+            "phone2": "0845 46 44",
+            "subcategories": ["78"],
+            "brands": ["20"],
+            "area": "10"
+        },
+        {
+            "level": "1",
+            "place": "c64",
+            "id": "81907485999",
+            "name": "Pede Blandit Corporation",
+            "phone": "(023) 2394 0606",
+            "phone2": "(0131) 289 0095",
+            "subcategories": ["81"],
+            "brands": ["57"],
+            "area": "11"
+        },
+        {
+            "level": "1",
+            "place": "c65",
+            "id": "35615885099",
+            "name": "Nulla Vulputate Dui Inc.",
+            "phone": "(01476) 65158",
+            "phone2": "055 1247 4802",
+            "subcategories": ["105"],
+            "brands": ["19"],
+            "area": "15.7"
+        },
+        {
+            "level": "2",
+            "place": "a1",
+            "id": "22417831099",
+            "name": "Donec Incorporated",
+            "phone": "(016303) 32154",
+            "phone2": "0977 191 3105",
+            "subcategories": ["69"],
+            "brands": ["25"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "a1.1",
+            "id": "023211",
+            "name": "COMP 2A1.1",
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "a1.2",
+            "id": "01151110",
+            "name": "COMP 2A1.2",
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "a2",
+            "id": "28439228099",
+            "name": "Quis Ltd",
+            "phone": "055 1379 8727",
+            "phone2": "(015592) 34981",
+            "subcategories": ["77"],
+            "brands": ["89"],
+            "area": "23.6"
+        },
+        {
+            "level": "2",
+            "place": "a3",
+            "id": "45262929099",
+            "name": "Molestie Corporation",
+            "phone": "056 5581 6206",
+            "phone2": "0800 1111",
+            "subcategories": ["85"],
+            "brands": ["72"],
+            "area": "13.6"
+        },
+        {
+            "level": "2",
+            "place": "a4",
+            "id": "53668605999",
+            "name": "Ac Fermentum Incorporated",
+            "phone": "(026) 8718 4697",
+            "phone2": "(01774) 08475",
+            "subcategories": ["42"],
+            "brands": ["34"],
+            "area": "16.9"
+        },
+        {
+            "level": "2",
+            "place": "a5",
+            "id": "68730982799",
+            "name": "Nisl Arcu LLP",
+            "phone": "0800 548665",
+            "phone2": "070 7718 7170",
+            "subcategories": ["87"],
+            "brands": ["97"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a6",
+            "id": "94597420599",
+            "name": "Egestas Ligula Nullam Incorporated",
+            "phone": "0910 261 5168",
+            "phone2": "(013887) 34119",
+            "subcategories": ["61"],
+            "brands": ["30"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a7",
+            "id": "91233409499",
+            "name": "Proin Non PC",
+            "phone": "(01498) 05909",
+            "phone2": "076 5549 4950",
+            "subcategories": ["48"],
+            "brands": ["96"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a8",
+            "id": "26886497799",
+            "name": "In Aliquet Lobortis Ltd",
+            "phone": "(0181) 367 3911",
+            "phone2": "(016977) 8336",
+            "subcategories": ["50"],
+            "brands": ["79"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a9",
+            "id": "60521302599",
+            "name": "Nisl Arcu PC",
+            "phone": "055 0745 3917",
+            "phone2": "055 9251 4585",
+            "subcategories": ["91"],
+            "brands": ["71"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a10",
+            "id": "5585636899",
+            "name": "Ligula Tortor LLP",
+            "phone": "(0114) 718 4961",
+            "phone2": "(01161) 183940",
+            "subcategories": ["97"],
+            "brands": ["16"],
+            "area": "13.75"
+        },
+        {
+            "level": "2",
+            "place": "a11",
+            "id": "27857274099",
+            "name": "Vulputate Risus A Foundation",
+            "phone": "0325 487 3294",
+            "phone2": "0800 197067",
+            "subcategories": ["87"],
+            "brands": ["18"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a12",
+            "id": "83423590899",
+            "name": "Elit Corp.",
+            "phone": "07154 362646",
+            "phone2": "0846 379 7283",
+            "subcategories": ["87"],
+            "brands": ["66"],
+            "area": "12.15"
+        },
+        {
+            "level": "2",
+            "place": "a13",
+            "id": "26943041999",
+            "name": "Euismod Urna Nullam Corp.",
+            "phone": "055 3040 0365",
+            "phone2": "0800 890 7329",
+            "subcategories": ["88"],
+            "brands": ["7"],
+            "area": "12.15"
+        },
+        {
+            "level": "2",
+            "place": "a14",
+            "id": "6665887399",
+            "name": "Bibendum Foundation",
+            "phone": "07624 002935",
+            "phone2": "(01903) 768147",
+            "subcategories": ["32"],
+            "brands": ["52"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a15",
+            "id": "63988553699",
+            "name": "Enim PC",
+            "phone": "(016977) 5526",
+            "phone2": "(023) 3034 0939",
+            "subcategories": ["62"],
+            "brands": ["3"],
+            "area": "13.75"
+        },
+        {
+            "level": "2",
+            "place": "a16",
+            "id": "82364670899",
+            "name": "Et Nunc Quisque LLC",
+            "phone": "07605 832241",
+            "phone2": "0301 299 4692",
+            "subcategories": ["66"],
+            "brands": ["3"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a17",
+            "id": "34398623299",
+            "name": "Non Massa Industries",
+            "phone": "0378 997 5913",
+            "phone2": "056 2107 1734",
+            "subcategories": ["59"],
+            "brands": ["41"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a18",
+            "id": "71791867399",
+            "name": "Eu Associates",
+            "phone": "(01108) 14966",
+            "phone2": "070 9546 1490",
+            "subcategories": ["86"],
+            "brands": ["20"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a19",
+            "id": "51399840999",
+            "name": "Ipsum Inc.",
+            "phone": "(01831) 21014",
+            "phone2": "0500 492812",
+            "subcategories": ["34"],
+            "brands": ["9"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a20",
+            "id": "2957644799",
+            "name": "Congue Elit Sed Industries",
+            "phone": "(01373) 13280",
+            "phone2": "(023) 4503 4937",
+            "subcategories": ["60"],
+            "brands": ["2"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a21",
+            "id": "87209957299",
+            "name": "Nunc Company",
+            "phone": "076 6208 0001",
+            "phone2": "070 5622 5617",
+            "subcategories": ["49"],
+            "brands": ["91"],
+            "area": "16.9"
+        },
+        {
+            "level": "2",
+            "place": "a22",
+            "id": "58956950799",
+            "name": "Pede Cum Sociis LLP",
+            "phone": "07624 918503",
+            "phone2": "0800 577 0642",
+            "subcategories": ["58"],
+            "brands": ["53"],
+            "area": "13.15"
+        },
+        {
+            "level": "2",
+            "place": "a23",
+            "id": "99876818399",
+            "name": "Phasellus In Inc.",
+            "phone": "0386 210 8481",
+            "phone2": "(0117) 301 5050",
+            "subcategories": ["42"],
+            "brands": ["57"],
+            "area": "23.6"
+        },
+        {
+            "level": "2",
+            "place": "a24",
+            "id": "79683763099",
+            "name": "Nulla Corporation",
+            "phone": "(014122) 85030",
+            "phone2": "055 1592 8590",
+            "subcategories": ["62"],
+            "brands": ["73"],
+            "area": "34.12"
+        },
+        {
+            "level": "2",
+            "place": "a25",
+            "id": "97363661799",
+            "name": "Tortor Institute",
+            "phone": "(01058) 93251",
+            "phone2": "0952 727 1224",
+            "subcategories": ["45"],
+            "brands": ["66"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a26",
+            "id": "62224787599",
+            "name": "Adipiscing Non Luctus PC",
+            "phone": "056 4889 6748",
+            "phone2": "0396 078 0918",
+            "subcategories": ["31"],
+            "brands": ["98"],
+            "area": "24.4"
+        },
+        {
+            "level": "2",
+            "place": "a27",
+            "id": "26874685999",
+            "name": "Natoque Penatibus Et Incorporated",
+            "phone": "0800 702841",
+            "phone2": "(0117) 639 9420",
+            "subcategories": ["45"],
+            "brands": ["10"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a28",
+            "id": "7967327299",
+            "name": "Scelerisque Lorem Associates",
+            "phone": "(023) 4436 6510",
+            "phone2": "0845 46 44",
+            "subcategories": ["76"],
+            "brands": ["49"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a29",
+            "id": "21784800999",
+            "name": "Morbi Metus LLP",
+            "phone": "(021) 8180 2480",
+            "phone2": "0800 043357",
+            "subcategories": ["63"],
+            "brands": ["41"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a30",
+            "id": "11704716699",
+            "name": "Dolor Foundation",
+            "phone": "(01396) 15169",
+            "phone2": "(01294) 87170",
+            "subcategories": ["104"],
+            "brands": ["90"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a31",
+            "id": "80790417599",
+            "name": "Netus Foundation",
+            "phone": "(012267) 86202",
+            "phone2": "0800 1111",
+            "subcategories": ["92"],
+            "brands": ["15"],
+            "area": "19.5"
+        },
+        {
+            "level": "2",
+            "place": "a32",
+            "id": "1452903099",
+            "name": "Inceptos Company",
+            "phone": "(01698) 83628",
+            "phone2": "(0191) 895 6127",
+            "subcategories": ["101"],
+            "brands": ["39"],
+            "area": "22.35"
+        },
+        {
+            "level": "2",
+            "place": "a33",
+            "id": "20321938099",
+            "name": "Quam A Associates",
+            "phone": "(021) 0459 5044",
+            "phone2": "0800 727 5030",
+            "subcategories": ["48"],
+            "brands": ["12"],
+            "area": "16"
+        },
+        {
+            "level": "2",
+            "place": "a34",
+            "id": "14632705199",
+            "name": "Sed Leo Cras PC",
+            "phone": "07624 525494",
+            "phone2": "0300 205 3474",
+            "subcategories": ["55"],
+            "brands": ["90"],
+            "area": "20"
+        },
+        {
+            "level": "2",
+            "place": "a35",
+            "id": "79602000699",
+            "name": "Vulputate Company",
+            "phone": "070 0653 5588",
+            "phone2": "(0171) 258 6182",
+            "subcategories": ["102"],
+            "brands": ["65"],
+            "area": "20"
+        },
+        {
+            "level": "2",
+            "place": "a36",
+            "id": "86725933199",
+            "name": "Habitant Morbi Tristique Associates",
+            "phone": "(01674) 980647",
+            "phone2": "(01188) 005646",
+            "subcategories": ["100"],
+            "brands": ["12"],
+            "area": "20.8"
+        },
+        {
+            "level": "2",
+            "place": "b1",
+            "id": "64207386899",
+            "name": "Magna Corp.",
+            "phone": "070 2872 8249",
+            "phone2": "0859 234 7781",
+            "subcategories": ["88"],
+            "brands": ["21"],
+            "area": "27.8"
+        },
+        {
+            "level": "2",
+            "place": "b2",
+            "id": "86648641599",
+            "name": "Cras Dictum Ltd",
+            "phone": "07101 079213",
+            "phone2": "(0114) 898 3724",
+            "subcategories": ["84"],
+            "brands": ["37"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b3",
+            "id": "94871289299",
+            "name": "Ac Orci LLP",
+            "phone": "0994 013 1352",
+            "phone2": "(01791) 01428",
+            "subcategories": ["54"],
+            "brands": ["77"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b4",
+            "id": "80387429599",
+            "name": "Consectetuer Mauris Consulting",
+            "phone": "(016977) 1809",
+            "phone2": "07624 460085",
+            "subcategories": ["52"],
+            "brands": ["65"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b5",
+            "id": "47865540899",
+            "name": "Sed Tortor Corp.",
+            "phone": "07624 504992",
+            "phone2": "(016977) 0774",
+            "subcategories": ["83"],
+            "brands": ["22"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b6",
+            "id": "47273721899",
+            "name": "Eleifend Company",
+            "phone": "055 9717 5402",
+            "phone2": "0358 430 5231",
+            "subcategories": ["30"],
+            "brands": ["52"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b7",
+            "id": "1280274399",
+            "name": "Sit Industries",
+            "phone": "07583 906634",
+            "phone2": "0500 812232",
+            "subcategories": ["105"],
+            "brands": ["74"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b8",
+            "id": "99488997499",
+            "name": "Vel Lectus Cum Institute",
+            "phone": "056 9380 9488",
+            "phone2": "056 9410 8377",
+            "subcategories": ["74"],
+            "brands": ["87"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b9",
+            "id": "93857583899",
+            "name": "Ipsum Porta Elit LLP",
+            "phone": "(01385) 38023",
+            "phone2": "0800 128117",
+            "subcategories": ["39"],
+            "brands": ["92"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b10",
+            "id": "41272739899",
+            "name": "Penatibus Et Magnis Ltd",
+            "phone": "0845 46 40",
+            "phone2": "07885 414852",
+            "subcategories": ["85"],
+            "brands": ["1"],
+            "area": "15.75"
+        },
+        {
+            "level": "2",
+            "place": "b11",
+            "id": "13348905699",
+            "name": "Convallis Erat Eget Industries",
+            "phone": "055 1638 8994",
+            "phone2": "056 5278 5788",
+            "subcategories": ["36"],
+            "brands": ["91"],
+            "area": "19.69"
+        },
+        {
+            "level": "2",
+            "place": "b12",
+            "id": "80229570199",
+            "name": "Elementum Industries",
+            "phone": "(01279) 95812",
+            "phone2": "07624 175394",
+            "subcategories": ["67"],
+            "brands": ["65"],
+            "area": "28.88"
+        },
+        {
+            "level": "2",
+            "place": "b13",
+            "id": "28273854399",
+            "name": "Sodales Purus In Company",
+            "phone": "(0161) 910 9631",
+            "phone2": "055 3074 7669",
+            "subcategories": ["92"],
+            "brands": ["84"],
+            "area": "8.54"
+        },
+        {
+            "level": "2",
+            "place": "b14",
+            "id": "38665286699",
+            "name": "Proin Vel Arcu Corp.",
+            "phone": "0800 521 4257",
+            "phone2": "0500 790178",
+            "subcategories": ["115"],
+            "brands": ["13"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b15",
+            "id": "9940423899",
+            "name": "Consectetuer Adipiscing Elit Industries",
+            "phone": "0845 46 44",
+            "phone2": "0883 926 0444",
+            "subcategories": ["80"],
+            "brands": ["41"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b16",
+            "id": "19804251899",
+            "name": "Sed Congue Elit Industries",
+            "phone": "0800 1111",
+            "phone2": "(01854) 46209",
+            "subcategories": ["69"],
+            "brands": ["70"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b17",
+            "id": "78361005299",
+            "name": "Quisque Ornare PC",
+            "phone": "070 0833 2316",
+            "phone2": "(0116) 158 1027",
+            "subcategories": ["66"],
+            "brands": ["99"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b18",
+            "id": "98474043399",
+            "name": "Tortor Dictum Institute",
+            "phone": "(0110) 393 2873",
+            "phone2": "(017881) 01010",
+            "subcategories": ["68"],
+            "brands": ["23"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b19",
+            "id": "4529404799",
+            "name": "Orci Consectetuer Euismod Foundation",
+            "phone": "0800 1111",
+            "phone2": "(016977) 2434",
+            "subcategories": ["56"],
+            "brands": ["27"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "b20",
+            "id": "92902040099",
+            "name": "Consectetuer LLC",
+            "phone": "055 5503 7717",
+            "phone2": "(01539) 96131",
+            "subcategories": ["46"],
+            "brands": ["17"],
+            "area": "7.5"
+        },
+        {
+            "level": "2",
+            "place": "b21",
+            "id": "16671370699",
+            "name": "Convallis Industries",
+            "phone": "(0117) 397 6896",
+            "phone2": "070 2195 7086",
+            "subcategories": ["76"],
+            "brands": ["71"],
+            "area": "19.25"
+        },
+        {
+            "level": "2",
+            "place": "b22",
+            "id": "27914412899",
+            "name": "Fermentum Arcu Vestibulum Incorporated",
+            "phone": "0334 094 2706",
+            "phone2": "(013414) 82195",
+            "subcategories": ["101"],
+            "brands": ["58"],
+            "area": "13.1"
+        },
+        {
+            "level": "2",
+            "place": "b23",
+            "id": "65279405099",
+            "name": "Aliquam Tincidunt Foundation",
+            "phone": "056 7783 4398",
+            "phone2": "(0161) 587 2217",
+            "subcategories": ["67"],
+            "brands": ["52"],
+            "area": "14"
+        },
+        {
+            "level": "2",
+            "place": "b24",
+            "id": "71683897699",
+            "name": "Tristique Senectus Industries",
+            "phone": "(015914) 94832",
+            "phone2": "070 6721 2595",
+            "subcategories": ["55"],
+            "brands": ["15"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b25",
+            "id": "17725610499",
+            "name": "Luctus Lobortis Inc.",
+            "phone": "(024) 4807 8182",
+            "phone2": "070 1603 4479",
+            "subcategories": ["80"],
+            "brands": ["58"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b26",
+            "id": "72805492499",
+            "name": "Egestas Incorporated",
+            "phone": "0884 240 7835",
+            "phone2": "(016977) 6176",
+            "subcategories": ["90"],
+            "brands": ["83"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b27",
+            "id": "45876274599",
+            "name": "Ut Corp.",
+            "phone": "07624 960685",
+            "phone2": "07624 384529",
+            "subcategories": ["33"],
+            "brands": ["92"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b28",
+            "id": "98254145799",
+            "name": "Nunc Corporation",
+            "phone": "0800 1111",
+            "phone2": "(0151) 105 8799",
+            "subcategories": ["94"],
+            "brands": ["46"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b29",
+            "id": "78909502199",
+            "name": "Adipiscing Lobortis Industries",
+            "phone": "076 9092 0370",
+            "phone2": "07298 642498",
+            "subcategories": ["55"],
+            "brands": ["44"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b30",
+            "id": "90584890699",
+            "name": "Iaculis Enim Sit Inc.",
+            "phone": "07624 007571",
+            "phone2": "(01691) 30616",
+            "subcategories": ["34"],
+            "brands": ["7"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "b31",
+            "id": "772644499",
+            "name": "Sit Amet LLP",
+            "phone": "(011080) 90914",
+            "phone2": "(016977) 7796",
+            "subcategories": ["54"],
+            "brands": ["95"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b32",
+            "id": "1392363499",
+            "name": "Luctus Felis Purus Consulting",
+            "phone": "0858 959 5602",
+            "phone2": "0500 129070",
+            "subcategories": ["66"],
+            "brands": ["74"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b33",
+            "id": "22794400299",
+            "name": "Fringilla Incorporated",
+            "phone": "07628 522167",
+            "phone2": "055 6526 3635",
+            "subcategories": ["54"],
+            "brands": ["54"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b34",
+            "id": "80501330499",
+            "name": "Felis Nulla Tempor Foundation",
+            "phone": "055 5598 6271",
+            "phone2": "0357 558 6118",
+            "subcategories": ["74"],
+            "brands": ["41"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b35",
+            "id": "18397449399",
+            "name": "Vitae Aliquam LLC",
+            "phone": "07624 997559",
+            "phone2": "0800 057 0567",
+            "subcategories": ["51"],
+            "brands": ["34"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b36",
+            "id": "65813535999",
+            "name": "Hendrerit Corp.",
+            "phone": "(01304) 942927",
+            "phone2": "(016977) 4777",
+            "subcategories": ["64"],
+            "brands": ["17"],
+            "area": "13.5"
+        },
+        {
+            "level": "2",
+            "place": "b37",
+            "id": "58704899799",
+            "name": "Eu Turpis Nulla Ltd",
+            "phone": "(016977) 8675",
+            "phone2": "0845 46 42",
+            "subcategories": ["41"],
+            "brands": ["9"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b38",
+            "id": "97360535399",
+            "name": "Id Libero Donec Corporation",
+            "phone": "0845 46 47",
+            "phone2": "0354 495 9708",
+            "subcategories": ["54"],
+            "brands": ["35"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b39",
+            "id": "52957044399",
+            "name": "Ac Sem Ut Ltd",
+            "phone": "0800 1111",
+            "phone2": "(022) 3649 7653",
+            "subcategories": ["72"],
+            "brands": ["4"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b40",
+            "id": "80381579799",
+            "name": "Laoreet Libero Consulting",
+            "phone": "076 0729 3149",
+            "phone2": "076 7366 4369",
+            "subcategories": ["40"],
+            "brands": ["65"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b41",
+            "id": "79604134499",
+            "name": "Egestas LLP",
+            "phone": "(016977) 6760",
+            "phone2": "076 9573 1268",
+            "subcategories": ["106"],
+            "brands": ["86"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "b42",
+            "id": "65309595599",
+            "name": "Aliquam Adipiscing Lobortis LLC",
+            "phone": "(01938) 899853",
+            "phone2": "07624 215592",
+            "subcategories": ["87"],
+            "brands": ["96"],
+            "area": "8.75"
+        },
+        {
+            "level": "2",
+            "place": "b43",
+            "id": "57500196099",
+            "name": "Aliquet Consulting",
+            "phone": "0800 252393",
+            "phone2": "070 1468 0305",
+            "subcategories": ["36"],
+            "brands": ["27"],
+            "area": "28.25"
+        },
+        {
+            "level": "2",
+            "place": "b44",
+            "id": "68746877799",
+            "name": "Posuere Inc.",
+            "phone": "076 2740 6335",
+            "phone2": "(0191) 650 3126",
+            "subcategories": ["39"],
+            "brands": ["25"],
+            "area": "28.25"
+        },
+        {
+            "level": "2",
+            "place": "b45",
+            "id": "21355735399",
+            "name": "Interdum Feugiat Institute",
+            "phone": "07539 478147",
+            "phone2": "0800 355 9058",
+            "subcategories": ["114"],
+            "brands": ["97"],
+            "area": "15"
+        },
+        {
+            "level": "2",
+            "place": "b46",
+            "id": "3537625099",
+            "name": "Nisi Aenean Eget Foundation",
+            "phone": "(016937) 38811",
+            "phone2": "07624 571220",
+            "subcategories": ["62"],
+            "brands": ["1"],
+            "area": "15"
+        },
+        {
+            "level": "2",
+            "place": "b47",
+            "id": "71276637699",
+            "name": "Pellentesque Tellus Sem Consulting",
+            "phone": "(01462) 10612",
+            "phone2": "0946 096 7315",
+            "subcategories": ["53"],
+            "brands": ["73"],
+            "area": "15"
+        },
+        {
+            "level": "2",
+            "place": "b48",
+            "id": "35506177599",
+            "name": "Lorem Eget Mollis Limited",
+            "phone": "(019146) 57484",
+            "phone2": "07624 493519",
+            "subcategories": ["41"],
+            "brands": ["30"],
+            "area": "10"
+        },
+        {
+            "level": "2",
+            "place": "b49",
+            "id": "24949696799",
+            "name": "Diam Incorporated",
+            "phone": "056 2151 6105",
+            "phone2": "0800 342 4172",
+            "subcategories": ["40"],
+            "brands": ["10"],
+            "area": "22.5"
+        },
+        {
+            "level": "2",
+            "place": "b50",
+            "id": "15962228799",
+            "name": "Aliquet Institute",
+            "phone": "0800 242510",
+            "phone2": "0800 995 4573",
+            "subcategories": ["102"],
+            "brands": ["59"],
+            "area": "28.2"
+        },
+        {
+            "level": "2",
+            "place": "b51",
+            "id": "123132342",
+            "name": "COMP B51",
+            "phone": "123123123",
+            "phone2": "3213123123",
+            "subcategories": ["21"],
+            "brands": ["32"],
+            "area": "28.25"
+        },
+        {
+            "level": "2",
+            "place": "c1",
+            "id": "49253607999",
+            "name": "Aenean Sed Pede LLP",
+            "phone": "(0116) 482 6618",
+            "phone2": "0896 272 5536",
+            "subcategories": ["94"],
+            "brands": ["30"],
+            "area": "78"
+        },
+        {
+            "level": "2",
+            "place": "c2",
+            "id": "13269428999",
+            "name": "Mauris Ut LLC",
+            "phone": "07624 192503",
+            "phone2": "0862 215 0296",
+            "subcategories": ["35"],
+            "brands": ["96"],
+            "area": "104"
+        },
+        {
+            "level": "2",
+            "place": "c3",
+            "id": "68546580699",
+            "name": "Nisi LLC",
+            "phone": "07624 913107",
+            "phone2": "0800 1111",
+            "subcategories": ["71"],
+            "brands": ["58"],
+            "area": "49"
+        },
+        {
+            "level": "2",
+            "place": "c4",
+            "id": "52871454099",
+            "name": "Mauris Vestibulum Neque LLC",
+            "phone": "0845 46 47",
+            "phone2": "07624 424278",
+            "subcategories": ["84"],
+            "brands": ["59"],
+            "area": "12.2"
+        },
+        {
+            "level": "2",
+            "place": "c5",
+            "id": "64777522999",
+            "name": "Aliquam Fringilla Foundation",
+            "phone": "(0118) 427 1325",
+            "phone2": "(01062) 660642",
+            "subcategories": ["46"],
+            "brands": ["73"],
+            "area": "13.2"
+        },
+        {
+            "level": "2",
+            "place": "c6",
+            "id": "53669147399",
+            "name": "Elit A Associates",
+            "phone": "0304 694 1679",
+            "phone2": "(027) 5029 0937",
+            "subcategories": ["66"],
+            "brands": ["64"],
+            "area": "86.4"
+        },
+        {
+            "level": "2",
+            "place": "c7",
+            "id": "31518801099",
+            "name": "Fringilla Cursus Associates",
+            "phone": "0960 350 6531",
+            "phone2": "(025) 0642 8189",
+            "subcategories": ["67"],
+            "brands": ["38"],
+            "area": "86.4"
+        },
+        {
+            "level": "2",
+            "place": "c8",
+            "id": "25993969199",
+            "name": "Suspendisse Limited",
+            "phone": "(016977) 7244",
+            "phone2": "076 3351 4246",
+            "subcategories": ["81"],
+            "brands": ["19"],
+            "area": "56.7"
+        },
+        {
+            "level": "2",
+            "place": "c9",
+            "id": "73565410299",
+            "name": "Luctus Et PC",
+            "phone": "0800 1111",
+            "phone2": "076 7899 6921",
+            "subcategories": ["50"],
+            "brands": ["73"],
+            "area": "56.7"
+        },
+        {
+            "level": "2",
+            "place": "c10",
+            "id": "1717109199",
+            "name": "Lorem Industries",
+            "phone": "(01167) 703671",
+            "phone2": "(0116) 568 6773",
+            "subcategories": ["105"],
+            "brands": ["66"],
+            "area": "166"
+        },
+        {
+            "level": "2",
+            "place": "c11",
+            "id": "39901154299",
+            "name": "Sollicitudin Consulting",
+            "phone": "(01670) 60396",
+            "phone2": "0800 332179",
+            "subcategories": ["95"],
+            "brands": ["92"],
+            "area": "249"
+        },
+        {
+            "level": "2",
+            "place": "c12",
+            "id": "73366925299",
+            "name": "Et Rutrum Non Corp.",
+            "phone": "(0171) 347 7692",
+            "phone2": "0370 693 9745",
+            "subcategories": ["79"],
+            "brands": ["26"],
+            "area": "15.4"
+        },
+        {
+            "level": "2",
+            "place": "c13",
+            "id": "96475467799",
+            "name": "Mauris LLC",
+            "phone": "(01044) 611441",
+            "phone2": "0362 255 4880",
+            "subcategories": ["54"],
+            "brands": ["14"],
+            "area": "15.4"
+        },
+        {
+            "level": "2",
+            "place": "c14",
+            "id": "94355168599",
+            "name": "Tempus Eu Ligula Corp.",
+            "phone": "0825 132 4890",
+            "phone2": "0987 358 1255",
+            "subcategories": ["112"],
+            "brands": ["55"],
+            "area": "17.8"
+        },
+        {
+            "level": "2",
+            "place": "c15",
+            "id": "41568995599",
+            "name": "Scelerisque Incorporated",
+            "phone": "0845 46 45",
+            "phone2": "(024) 0662 3932",
+            "subcategories": ["101"],
+            "brands": ["79"],
+            "area": "16.6"
+        },
+        {
+            "level": "2",
+            "place": "c16",
+            "id": "31870335499",
+            "name": "Lobortis Foundation",
+            "phone": "(016977) 3376",
+            "phone2": "(01839) 138008",
+            "subcategories": ["42"],
+            "brands": ["68"],
+            "area": "16.6"
+        },
+        {
+            "level": "2",
+            "place": "c17",
+            "id": "38606972599",
+            "name": "Nunc Nulla Incorporated",
+            "phone": "076 0804 5738",
+            "phone2": "(01447) 285885",
+            "subcategories": ["48"],
+            "brands": ["56"],
+            "area": "16.6"
+        },
+        {
+            "level": "2",
+            "place": "c18",
+            "id": "16677891499",
+            "name": "Elit Limited",
+            "phone": "0845 46 44",
+            "phone2": "0500 601342",
+            "subcategories": ["43"],
+            "brands": ["36"],
+            "area": "46.1"
+        },
+        {
+            "level": "2",
+            "place": "c19",
+            "id": "50686106399",
+            "name": "Iaculis Consulting",
+            "phone": "076 7501 8395",
+            "phone2": "(01195) 669005",
+            "subcategories": ["50"],
+            "brands": ["9"],
+            "area": "15.4"
+        },
+        {
+            "level": "2",
+            "place": "c20",
+            "id": "86871103399",
+            "name": "Orci LLP",
+            "phone": "076 6042 5694",
+            "phone2": "0845 46 44",
+            "subcategories": ["111"],
+            "brands": ["52"],
+            "area": "15.4"
+        },
+        {
+            "level": "2",
+            "place": "c21",
+            "id": "93410115799",
+            "name": "Eget Venenatis Associates",
+            "phone": "(014329) 55552",
+            "phone2": "0832 589 0341",
+            "subcategories": ["87"],
+            "brands": ["28"],
+            "area": "17.8"
+        },
+        {
+            "level": "2",
+            "place": "c22",
+            "id": "94862990199",
+            "name": "Sit Amet Industries",
+            "phone": "0971 727 6099",
+            "phone2": "055 3014 1573",
+            "subcategories": ["34"],
+            "brands": ["70"],
+            "area": "24.9"
+        },
+        {
+            "level": "2",
+            "place": "c23",
+            "id": "46249662199",
+            "name": "Velit Inc.",
+            "phone": "(016977) 4898",
+            "phone2": "(016977) 5506",
+            "subcategories": ["94"],
+            "brands": ["86"],
+            "area": "24.9"
+        },
+        {
+            "level": "2",
+            "place": "c24",
+            "id": "82257372699",
+            "name": "Est Mauris Associates",
+            "phone": "056 3615 5648",
+            "phone2": "(025) 7634 1854",
+            "subcategories": ["65"],
+            "brands": ["2"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c25",
+            "id": "8209221999",
+            "name": "Lobortis Quis Pede Consulting",
+            "phone": "0500 688427",
+            "phone2": "(028) 5989 8998",
+            "subcategories": ["52"],
+            "brands": ["99"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c26",
+            "id": "64667468599",
+            "name": "Eleifend Vitae Corporation",
+            "phone": "(016977) 0917",
+            "phone2": "0839 068 8273",
+            "subcategories": ["41"],
+            "brands": ["84"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "c27",
+            "id": "19995906199",
+            "name": "Mattis Corp.",
+            "phone": "0800 013089",
+            "phone2": "0800 1111",
+            "subcategories": ["99"],
+            "brands": ["39"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c28",
+            "id": "78255603299",
+            "name": "Donec Sollicitudin Adipiscing Consulting",
+            "phone": "(01678) 750286",
+            "phone2": "07956 667915",
+            "subcategories": ["48"],
+            "brands": ["62"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c29",
+            "id": "5655157899",
+            "name": "Commodo Hendrerit Donec Associates",
+            "phone": "0500 665643",
+            "phone2": "0845 46 47",
+            "subcategories": ["42"],
+            "brands": ["47"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c30",
+            "id": "41910850499",
+            "name": "Massa Consulting",
+            "phone": "076 1487 8934",
+            "phone2": "0800 983323",
+            "subcategories": ["55"],
+            "brands": ["82"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "c31",
+            "id": "426537099",
+            "name": "Malesuada Limited",
+            "phone": "(016977) 7548",
+            "phone2": "055 3872 2504",
+            "subcategories": ["31"],
+            "brands": ["30"],
+            "area": "9.75"
+        },
+        {
+            "level": "2",
+            "place": "c32",
+            "id": "52237204799",
+            "name": "Non PC",
+            "phone": "0800 489 4575",
+            "phone2": "(016977) 3094",
+            "subcategories": ["74"],
+            "brands": ["8"],
+            "area": "12.75"
+        },
+        {
+            "level": "2",
+            "place": "c33",
+            "id": "71682113099",
+            "name": "Neque Institute",
+            "phone": "0500 077888",
+            "phone2": "(025) 4241 4679",
+            "subcategories": ["61"],
+            "brands": ["39"],
+            "area": "12.75"
+        },
+        {
+            "level": "2",
+            "place": "c34",
+            "id": "60952905099",
+            "name": "Massa Vestibulum Incorporated",
+            "phone": "056 4247 4414",
+            "phone2": "(01024) 98043",
+            "subcategories": ["80"],
+            "brands": ["85"],
+            "area": "12.75"
+        },
+        {
+            "level": "2",
+            "place": "c35",
+            "id": "86263130399",
+            "name": "Vel Est Industries",
+            "phone": "076 4103 0936",
+            "phone2": "07368 027628",
+            "subcategories": ["32"],
+            "brands": ["84"],
+            "area": "11.4"
+        },
+        {
+            "level": "2",
+            "place": "c36",
+            "id": "16290084399",
+            "name": "Id Nunc Limited",
+            "phone": "(016977) 5943",
+            "phone2": "(017695) 37360",
+            "subcategories": ["77"],
+            "brands": ["9"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c37",
+            "id": "2345852599",
+            "name": "Ac Tellus LLP",
+            "phone": "(0110) 976 6947",
+            "phone2": "(01506) 13713",
+            "subcategories": ["50"],
+            "brands": ["96"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c38",
+            "id": "27301038599",
+            "name": "Ac Nulla Institute",
+            "phone": "07368 893617",
+            "phone2": "07324 725144",
+            "subcategories": ["48"],
+            "brands": ["17"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "c39",
+            "id": "79784473899",
+            "name": "Nonummy Corporation",
+            "phone": "0845 46 45",
+            "phone2": "0500 732579",
+            "subcategories": ["66"],
+            "brands": ["26"],
+            "area": "9.75"
+        },
+        {
+            "level": "2",
+            "place": "c40",
+            "id": "8601180399",
+            "name": "Aliquam Industries",
+            "phone": "056 7181 5025",
+            "phone2": "0952 346 4250",
+            "subcategories": ["46"],
+            "brands": ["80"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c41",
+            "id": "17946271799",
+            "name": "Nec Imperdiet Associates",
+            "phone": "07086 331647",
+            "phone2": "0845 46 46",
+            "subcategories": ["76"],
+            "brands": ["42"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c42",
+            "id": "51812317599",
+            "name": "Nec Tempus Foundation",
+            "phone": "0800 1111",
+            "phone2": "(0101) 073 0845",
+            "subcategories": ["66"],
+            "brands": ["12"],
+            "area": "11.25"
+        },
+        {
+            "level": "2",
+            "place": "c43",
+            "id": "56910391599",
+            "name": "Enim Etiam Gravida PC",
+            "phone": "070 9827 6092",
+            "phone2": "055 9443 6433",
+            "subcategories": ["94"],
+            "brands": ["31"],
+            "area": "9.75"
+        },
+        {
+            "level": "2",
+            "place": "c44",
+            "id": "19918179799",
+            "name": "Ut Eros Non Associates",
+            "phone": "0924 053 8647",
+            "phone2": "0800 545 4260",
+            "subcategories": ["96"],
+            "brands": ["83"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c45",
+            "id": "24296925399",
+            "name": "Amet Faucibus Ut Institute",
+            "phone": "(0121) 116 6434",
+            "phone2": "070 3954 4125",
+            "subcategories": ["65"],
+            "brands": ["90"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c46",
+            "id": "55547212499",
+            "name": "Ultrices Iaculis Odio Incorporated",
+            "phone": "07744 790308",
+            "phone2": "0800 1111",
+            "subcategories": ["59"],
+            "brands": ["79"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c47",
+            "id": "87564943799",
+            "name": "Ligula Tortor Foundation",
+            "phone": "07641 363353",
+            "phone2": "(026) 0482 2176",
+            "subcategories": ["89"],
+            "brands": ["79"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c48",
+            "id": "45268447599",
+            "name": "Nulla Ante Foundation",
+            "phone": "0810 815 0664",
+            "phone2": "(014503) 64508",
+            "subcategories": ["41"],
+            "brands": ["8"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c49",
+            "id": "42819427799",
+            "name": "A Corporation",
+            "phone": "(0151) 243 3599",
+            "phone2": "(011737) 55322",
+            "subcategories": ["85"],
+            "brands": ["99"],
+            "area": "9"
+        },
+        {
+            "level": "2",
+            "place": "c50",
+            "id": "87460181199",
+            "name": "Sociis Limited",
+            "phone": "0845 46 43",
+            "phone2": "(01035) 277118",
+            "subcategories": ["101"],
+            "brands": ["68"],
+            "area": "13.2"
+        },
+        {
+            "level": "2",
+            "place": "c51",
+            "id": "84618910199",
+            "name": "Velit Corporation",
+            "phone": "(01789) 04013",
+            "phone2": "056 1590 7181",
+            "subcategories": ["89"],
+            "brands": ["80"],
+            "area": "13.2"
+        },
+        {
+            "level": "2",
+            "place": "c52",
+            "id": "56976928299",
+            "name": "Semper Et Lacinia Industries",
+            "phone": "0974 778 0611",
+            "phone2": "(016977) 7525",
+            "subcategories": ["68"],
+            "brands": ["17"],
+            "area": "13.2"
+        },
+        {
+            "level": "2",
+            "place": "c53",
+            "id": "38575941999",
+            "name": "Vulputate Ullamcorper Magna PC",
+            "phone": "(0119) 529 6257",
+            "phone2": "07739 660103",
+            "subcategories": ["100"],
+            "brands": ["12"],
+            "area": "13.2"
+        },
+        {
+            "level": "2",
+            "place": "c54",
+            "id": "96240437799",
+            "name": "Erat Vivamus LLC",
+            "phone": "(01747) 92093",
+            "phone2": "07575 810552",
+            "subcategories": ["92"],
+            "brands": ["65"],
+            "area": "24.27"
+        },
+        {
+            "level": "2",
+            "place": "c55",
+            "id": "37625139199",
+            "name": "Condimentum Donec Inc.",
+            "phone": "(01270) 840389",
+            "phone2": "(0112) 803 0878",
+            "subcategories": ["50"],
+            "brands": ["75"],
+            "area": "10.5"
+        },
+        {
+            "level": "2",
+            "place": "c56",
+            "id": "74612654399",
+            "name": "Sapien Cras LLC",
+            "phone": "07183 704666",
+            "phone2": "07624 058064",
+            "subcategories": ["71"],
+            "brands": ["2"],
+            "area": "10.7"
+        },
+        {
+            "level": "2",
+            "place": "c57",
+            "id": "28488906599",
+            "name": "Suspendisse Corp.",
+            "phone": "0800 1111",
+            "phone2": "076 6878 8829",
+            "subcategories": ["112"],
+            "brands": ["60"],
+            "area": "10.6"
+        },
+        {
+            "level": "2",
+            "place": "c58",
+            "id": "86635925599",
+            "name": "Turpis Nec Mauris Corp.",
+            "phone": "07943 940290",
+            "phone2": "(01983) 091576",
+            "subcategories": ["88"],
+            "brands": ["87"],
+            "area": "10"
+        },
+        {
+            "level": "2",
+            "place": "c59",
+            "id": "66656301799",
+            "name": "Diam Corporation",
+            "phone": "0500 344072",
+            "phone2": "(016977) 8822",
+            "subcategories": ["67"],
+            "brands": ["27"],
+            "area": "11"
+        },
+        {
+            "level": "2",
+            "place": "c60",
+            "id": "43568329399",
+            "name": "Quis Institute",
+            "phone": "(016977) 4951",
+            "phone2": "0500 171755",
+            "subcategories": ["44"],
+            "brands": ["51"],
+            "area": "15.7"
+        }
+    ]
+}
