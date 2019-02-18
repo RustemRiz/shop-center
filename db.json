@@ -507,12 +507,12 @@
         },
         {
             "id": "18",
-            "name": " Искусственный, натуральный камень "
+            "name": " Искусственный и натуральный камень "
         },
         {
             "id": "19",
             "name": "Печи и камины"
-        },
+        }
     ],
     "brands": [
         {
@@ -927,7 +927,7 @@
             "subcategories": ["78", "1", "3"],
             "brands": ["4", "1"],
             "area": "78",
-            "image": "https://bibendi88.github.io/shop-center/static/media/NecCorporation.png"
+            "image": true
         },
         {
             "level": "0",
