@@ -4167,7 +4167,8 @@
             "phone2": "8934234234",
             "subcategories": ["100", "101"],
             "brands": ["4"],
-            "area": "15"
+            "area": "15",
+            "image": "https://bibendi88.github.io/shop-center/static/media/MoscowCompany.png"
         },
         {
             "level": "2",
