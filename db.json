@@ -434,7 +434,13 @@
             "id": "116",
             "name": "Печи",
             "category_id": "19"
+        },
+        {
+            "id": "117",
+            "name": "Молотки",
+            "category_id": "20"
         }
+
     ],
     "categories": [
         {
@@ -507,17 +513,21 @@
         },
         {
             "id": "18",
-            "name": " Искусственный, натуральный камень "
+            "name": " Искусственный и натуральный камень "
         },
         {
             "id": "19",
             "name": "Печи и камины"
+        },
+        {
+            "id": "20",
+            "name": "Инструменты"
         }
     ],
     "brands": [
         {
             "id": "1",
-            "name": "Ori corporated"
+            "name": "Moscow Brand"
         },
         {
             "id": "2",
@@ -4152,11 +4162,11 @@
             "level": "2",
             "place": "b45",
             "id": "21355735399",
-            "name": "Interdum Feugiat Institute",
-            "phone": "07539 478147",
-            "phone2": "0800 355 9058",
-            "subcategories": ["114"],
-            "brands": ["97"],
+            "name": "Moscow company",
+            "phone": "89173423423",
+            "phone2": "8934234234",
+            "subcategories": ["100", "101"],
+            "brands": ["4"],
             "area": "15"
         },
         {
