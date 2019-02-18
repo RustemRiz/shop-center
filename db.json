@@ -434,13 +434,7 @@
             "id": "116",
             "name": "Печи",
             "category_id": "19"
-        },
-        {
-            "id": "117",
-            "name": "Молотки",
-            "category_id": "20"
         }
-
     ],
     "categories": [
         {
@@ -518,10 +512,6 @@
         {
             "id": "19",
             "name": "Печи и камины"
-        },
-        {
-            "id": "20",
-            "name": "Инструменты"
         }
     ],
     "brands": [
@@ -924,10 +914,6 @@
         {
             "id": "100",
             "name": "Velit Eget Laoreet LLC"
-        },
-        {
-            "id": "101",
-            "name": "Ramil LTD"
         }
     ],
     "companies": [
@@ -935,13 +921,12 @@
             "level": "0",
             "place": "c1",
             "id": "91377322599",
-            "name": "Moscow company",
+            "name": "TED",
             "phone": "8917333333",
             "phone2": "89232323333",
-            "subcategories": ["3", "4"],
+            "subcategories": ["50", "51"],
             "brands": ["5", "9"],
             "area": "78",
-            "image": "https://bibendi88.github.io/shop-center/static/media/MoscowCompany.png"
         },
         {
             "level": "0",
@@ -950,10 +935,9 @@
             "name": "Sed Diam Inc.",
             "phone": "(01431) 19546",
             "phone2": "800,063,943",
-            "subcategories": ["53, 23, 22"],
+            "subcategories": ["53, 54, 55"],
             "brands": ["39"],
             "area": "104",
-            "image": "https://bibendi88.github.io/shop-center/static/media/SedDiamInc.png"
         },
         {
             "level": "0",
